@@ -16,7 +16,7 @@
 - ### Backtracking
 - ### Bit Manipulation
 - ### Binary Search
-- ### Math
+- ### [Math](https://github.com/idanhuang/Leetcode/blob/master/Math.md)
 - ### Sorting
 - ### Sliding Window
 - ### Design
