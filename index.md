@@ -1,22 +1,22 @@
 # Leetcode
-### [Array](https://github.com/idanhuang/Leetcode/blob/master/Array.md)
-### String
-### HashMap
-### HashSet
-### Heap
-### LinkedList
-### Stack
-### Queue
-### Tree
-### Binary Search Tree
-### Trie
-### Graph
-### Greedy
-### Dynamic Programming
-### Backtracking
-### Bit Manipulation
-### Binary Search
-### Math
-### Sorting
-### Sliding Window
-### Design
+- ### [Array](https://github.com/idanhuang/Leetcode/blob/master/Array.md)
+- ### String
+- ### HashMap
+- ### HashSet
+- ### Heap
+- ### LinkedList
+- ### Stack
+- ### Queue
+- ### Tree
+- ### Binary Search Tree
+- ### Trie
+- ### Graph
+- ### Greedy
+- ### Dynamic Programming
+- ### Backtracking
+- ### Bit Manipulation
+- ### Binary Search
+- ### Math
+- ### Sorting
+- ### Sliding Window
+- ### Design
