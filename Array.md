@@ -3,7 +3,7 @@
 
 Number | Description                           | Difficulty | Solution
 ------- | ------------------------------------- | -------- |--------
-88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Link](https://leetcode.com/problems/merge-sorted-array/discuss/616112/C-Two-point-solution)
+88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Link](https://leetcode.com/problems/merge-sorted-array/discuss/616112/C-Two-pointer-solution)
 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Link](https://leetcode.com/problems/max-consecutive-ones/discuss/676283/C-O(n)-solution)
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Link](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/678147/C-two-pointer-solution)
 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Easy | [Link](https://leetcode.com/problems/duplicate-zeros/discuss/678241/C-Two-pointer-solution)
