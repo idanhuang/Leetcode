@@ -15,7 +15,7 @@
 - ### Dynamic Programming
 - ### Backtracking
 - ### Bit Manipulation
-- ### Binary Search
+- ### [Binary Search](https://github.com/idanhuang/Leetcode/blob/master/Binary%20Search.md)
 - ### [Math](https://github.com/idanhuang/Leetcode/blob/master/Math.md)
 - ### Sorting
 - ### Sliding Window
