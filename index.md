@@ -17,6 +17,6 @@
 - ### Bit Manipulation
 - ### [Binary Search](https://github.com/idanhuang/Leetcode/blob/master/Binary%20Search.md)
 - ### [Math](https://github.com/idanhuang/Leetcode/blob/master/Math.md)
-- ### Sorting
+- ### [Sorting](https://github.com/idanhuang/Leetcode/blob/master/Sorting.md)
 - ### Sliding Window
 - ### Design
