@@ -10,5 +10,6 @@ Number | Description                           | Difficulty | Solution | Note
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/valid-mountain-array/) | Easy | [Link](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/678147/C-two-pointer-solution) | Two-pointer
 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | Easy | [Link](https://leetcode.com/problems/duplicate-zeros/discuss/678241/C-Two-pointer-solution) | Two-pointer
 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [Link](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/discuss/676762/C-solution-(3-ways-to-get-number-of-digits))
+1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | [Link](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/discuss/682989/C-O(n)-in-place-solution)
 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | [Link](https://leetcode.com/problems/check-if-n-and-its-double-exist/discuss/681417/C-O(n)-solution)
 <div class="array-table"></div>
