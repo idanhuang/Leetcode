@@ -5,6 +5,7 @@ Number | Description                           | Difficulty | Solution | Note
 ------- | ------------------------------------- | -------- |--------|--------
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/679966/C-Two-pointer-solution) | Two-pointer
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Link](https://leetcode.com/problems/merge-sorted-array/discuss/616112/C-Two-pointer-solution) | Two-pointer
+283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Link](https://leetcode.com/problems/move-zeroes/discuss/683019/C-O(n)-two-point-in-place-solution) | Two-pointer
 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Link](https://leetcode.com/problems/max-consecutive-ones/discuss/676283/C-O(n)-solution)
 941 | [Valid Mountain Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Link](https://leetcode.com/problems/valid-mountain-array/discuss/681505/C-one-pass-and-two-pointer-solutions) | Two-pointer
 977 | [Squares of a Sorted Array](https://leetcode.com/problems/valid-mountain-array/) | Easy | [Link](https://leetcode.com/problems/squares-of-a-sorted-array/discuss/678147/C-two-pointer-solution) | Two-pointer
