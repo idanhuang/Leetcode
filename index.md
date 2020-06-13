@@ -1,5 +1,5 @@
 # Leetcode
-- ### [Array](https://github.com/idanhuang/Leetcode/blob/master/Array.md)
+- ### [Array](https://github.com/idanhuang/Leetcode/blob/master/docs/Array.md)
 - ### String
 - ### HashMap
 - ### HashSet
@@ -15,8 +15,8 @@
 - ### Dynamic Programming
 - ### Backtracking
 - ### Bit Manipulation
-- ### [Binary Search](https://github.com/idanhuang/Leetcode/blob/master/Binary%20Search.md)
-- ### [Math](https://github.com/idanhuang/Leetcode/blob/master/Math.md)
-- ### [Sorting](https://github.com/idanhuang/Leetcode/blob/master/Sorting.md)
+- ### [Binary Search](https://github.com/idanhuang/Leetcode/blob/master/docs/Binary%20Search.md)
+- ### [Math](https://github.com/idanhuang/Leetcode/blob/master/docs/Math.md)
+- ### [Sorting](https://github.com/idanhuang/Leetcode/blob/master/docs/Sorting.md)
 - ### Sliding Window
 - ### Design
