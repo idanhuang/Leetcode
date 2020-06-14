@@ -12,7 +12,7 @@
 - ### Trie
 - ### Graph
 - ### Greedy
-- ### Dynamic Programming
+- ### [Dynamic Programming](https://github.com/idanhuang/Leetcode/blob/master/docs/DynamicProgramming.md)
 - ### Backtracking
 - ### Bit Manipulation
 - ### [Binary Search](https://github.com/idanhuang/Leetcode/blob/master/docs/Binary%20Search.md)
