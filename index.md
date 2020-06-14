@@ -1,7 +1,7 @@
 # Leetcode
 - ### [Array](https://github.com/idanhuang/Leetcode/blob/master/docs/Array.md)
 - ### String
-- ### HashMap
+- ### [Dictionary/Hashtable](https://github.com/idanhuang/Leetcode/blob/master/docs/Dictionary.md)
 - ### HashSet
 - ### Heap
 - ### LinkedList
