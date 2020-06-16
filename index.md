@@ -1,6 +1,6 @@
 # Leetcode
 - ### [Array](https://github.com/idanhuang/Leetcode/blob/master/docs/Array.md)
-- ### String
+- ### [String] (https://github.com/idanhuang/Leetcode/blob/master/docs/String.md)
 - ### [Dictionary/Hashtable](https://github.com/idanhuang/Leetcode/blob/master/docs/Dictionary.md)
 - ### HashSet
 - ### Heap
