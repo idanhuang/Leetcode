@@ -1,4 +1,4 @@
-# Math
+# String
 <div class="string-table"></div>
 
 Number | Description                           | Difficulty | Solution | Note
