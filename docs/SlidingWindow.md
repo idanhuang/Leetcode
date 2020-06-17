@@ -1,4 +1,4 @@
-# Array
+# Sliding Window
 <div class="slidingwindow-table"></div>
 
 Number | Description                           | Difficulty | Solution | Note
