@@ -15,7 +15,7 @@
 - ### [Dynamic Programming](https://github.com/idanhuang/Leetcode/blob/master/docs/DynamicProgramming.md)
 - ### Backtracking
 - ### [Bit Manipulation](https://github.com/idanhuang/Leetcode/blob/master/docs/BitManipulation.md)
-- ### [Binary Search](https://github.com/idanhuang/Leetcode/blob/master/docs/Binary%20Search.md)
+- ### [Binary Search](https://github.com/idanhuang/Leetcode/blob/master/docs/BinarySearch.md)
 - ### [Math](https://github.com/idanhuang/Leetcode/blob/master/docs/Math.md)
 - ### [Sorting](https://github.com/idanhuang/Leetcode/blob/master/docs/Sorting.md)
 - ### [Sliding Window](https://github.com/idanhuang/Leetcode/blob/master/docs/SlidingWindow.md)
