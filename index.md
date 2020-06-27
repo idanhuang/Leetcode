@@ -7,7 +7,7 @@
 - ### LinkedList
 - ### Stack
 - ### Queue
-- ### Tree
+- ### [Tree](https://github.com/idanhuang/Leetcode/tree/master/docs)
 - ### Binary Search Tree
 - ### Trie
 - ### Graph
