@@ -4,7 +4,7 @@
 - ### [Dictionary/Hashtable](https://github.com/idanhuang/Leetcode/blob/master/docs/Dictionary.md)
 - ### HashSet
 - ### Heap
-- ### LinkedList
+- ### [LinkedList](https://github.com/idanhuang/Leetcode/blob/master/docs/LinkedList.md)
 - ### Stack
 - ### Queue
 - ### [Tree](https://github.com/idanhuang/Leetcode/tree/master/docs)
