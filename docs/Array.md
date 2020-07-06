@@ -4,6 +4,7 @@
 Number | Description                           | Difficulty | Solution | Note
 ------- | ------------------------------------- | -------- |--------|--------
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/679966/C-Two-pointer-solution) | Two-pointer
+66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Link](https://leetcode.com/problems/plus-one/discuss/722886/C-solution) | 
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Link](https://leetcode.com/problems/merge-sorted-array/discuss/616112/C-Two-pointer-solution) | Two-pointer
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [Link](https://leetcode.com/problems/move-zeroes/discuss/683019/C-O(n)-two-point-in-place-solution) | Two-pointer
 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Link](https://leetcode.com/problems/max-consecutive-ones/discuss/676283/C-O(n)-solution)
