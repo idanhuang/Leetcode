@@ -10,7 +10,7 @@
 - ### [Tree](https://github.com/idanhuang/Leetcode/tree/master/docs)
 - ### Binary Search Tree
 - ### Trie
-- ### Graph
+- ### [Graph](https://github.com/idanhuang/Leetcode/blob/master/docs/Graph.md)
 - ### Greedy
 - ### [Dynamic Programming](https://github.com/idanhuang/Leetcode/blob/master/docs/DynamicProgramming.md)
 - ### Backtracking
