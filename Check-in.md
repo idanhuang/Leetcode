@@ -6,3 +6,5 @@
 - LC463. Island Perimeter (Easy)
 ### 7/8/2020
 - LC15. 3Sum (Medium)
+### 7/9/2020
+- LC662. Maximum Width of Binary Tree (Medium)
