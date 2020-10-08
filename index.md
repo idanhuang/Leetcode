@@ -1,3 +1,52 @@
+
+- ### Array
+- ### String
+[Dictionary/Hashtable](#Dictionary)
+- ### HashSet
+- ### Heap
+- ### LinkedList
+- ### Stack
+- ### Queue
+- ### Tree
+- ### Binary Search Tree
+- ### Trie
+- ### Graph
+- ### Greedy
+- ### Dynamic Programming
+- ### Backtracking
+- ### Bit Manipulation
+- ### Binary Search
+- ### Math
+- ### Sorting
+- ### Sliding Window
+- ### Design
+
+
+
+
+
+
+
+# Dictionary
+<div class="dictionary-table">
+  Number | Description                           | Difficulty | Solution | Note
+  ------- | ------------------------------------- | -------- |--------|--------
+  1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Link](https://leetcode.com/problems/two-sum/discuss/578502/C-solution)  |
+</div class="dictionary-table">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Leetcode
 - ### [Array](https://github.com/idanhuang/Leetcode/blob/master/docs/Array.md)
 - ### [String](https://github.com/idanhuang/Leetcode/blob/master/docs/String.md)
