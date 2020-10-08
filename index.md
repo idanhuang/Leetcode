@@ -1,25 +1,25 @@
 
-- ### Array
-- ### String
-[Dictionary/Hashtable](#Dictionary)
-- ### HashSet
-- ### Heap
-- ### LinkedList
-- ### Stack
-- ### Queue
-- ### Tree
-- ### Binary Search Tree
-- ### Trie
-- ### Graph
-- ### Greedy
-- ### Dynamic Programming
-- ### Backtracking
-- ### Bit Manipulation
-- ### Binary Search
-- ### Math
-- ### Sorting
-- ### Sliding Window
-- ### Design
+- [Array](#Array)
+- [String](#String)
+- [Dictionary/Hashtable](#Dictionary)
+- [HashSet](#HashSet)
+- [Heap](#Heap)
+- [LinkedList](#LinkedList)
+- [Stack](#Stack)
+- [Queue](#Queue)
+- [Tree](#Tree)
+- [Binary Search Tree](#Binary)
+- [Trie](#Trie)
+- [Graph](#Graph)
+- [Greedy](#Greedy)
+- [Dynamic Programming](#Dynamic-Programming)
+- [Backtracking](#Backtracking)
+- [Bit Manipulation](#Bit-Manipulation)
+- [Binary Search](#Binary-Search)
+- [Math](#Math)
+- [Sorting](#Sorting)
+- [Sliding Window](#Sliding-Window)
+- [Design](#Design)
 
 
 
@@ -30,7 +30,7 @@
 # Dictionary
 <div class="dictionary-table">
 
-Number | Description                           | Difficulty | Solution | Note
+Number  | Description                           | Difficulty | Solution | Video
 ------- | ------------------------------------- | -------- |--------|--------
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Link](https://leetcode.com/problems/two-sum/discuss/578502/C-solution)  |
 
