@@ -7,7 +7,7 @@
 - [Stack](#Stack)
 - [Queue](#Queue)
 - [Tree](#Tree)
-- [Binary Search Tree](#Binary)
+- [Binary Search Tree](#Binary-Search-Tree)
 - [Trie](#Trie)
 - [Graph](#Graph)
 - [Greedy](#Greedy)
@@ -43,7 +43,14 @@ Number  | Description                           | Difficulty | Solution | Video 
 
 </div class="dictionary-table">
 
+# Binary Search Tree
+<div class="bst-table">
+  
+Number  | Description                           | Difficulty | Solution | Video | Note
+------- | ------------------------------------- | -------- |--------|-------- |--------
+653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | [Link](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/612169/C-solution-(DFS-and-Two-pointer))  | |
 
+</div class="dictionary-table">
 
 
 
