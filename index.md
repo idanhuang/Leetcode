@@ -39,6 +39,7 @@ Number  | Description                           | Difficulty | Solution | Video 
 Number  | Description                           | Difficulty | Solution | Video | Note
 ------- | ------------------------------------- | -------- |--------|-------- |--------
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Link](https://leetcode.com/problems/two-sum/discuss/578502/C-solution)  | |
+170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | Easy | [Link](https://leetcode.com/problems/two-sum-iii-data-structure-design/discuss/885422/CJava-Dictionary-solution)  | |
 
 </div class="dictionary-table">
 
