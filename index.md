@@ -1,4 +1,3 @@
-
 - [Array](#Array)
 - [String](#String)
 - [Dictionary/Hashtable](#Dictionary)
@@ -25,14 +24,21 @@
 
 
 
+# Array
+<div class="array-table">
+  
+Number  | Description                           | Difficulty | Solution | Video | Note
+------- | ------------------------------------- | -------- |--------|--------|--------
+167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted//) | Easy | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/885921/cjava-two-pointer-solution)  |  | two-pointer
 
+</div class="dictionary-table">
 
 # Dictionary
 <div class="dictionary-table">
-
-Number  | Description                           | Difficulty | Solution | Video
-------- | ------------------------------------- | -------- |--------|--------
-1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Link](https://leetcode.com/problems/two-sum/discuss/578502/C-solution)  |
+  
+Number  | Description                           | Difficulty | Solution | Video | Note
+------- | ------------------------------------- | -------- |--------|-------- |--------
+1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Link](https://leetcode.com/problems/two-sum/discuss/578502/C-solution)  | |
 
 </div class="dictionary-table">
 
