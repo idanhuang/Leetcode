@@ -49,7 +49,7 @@ Number  | Description                           | Difficulty | Solution | Video 
 Number  | Description                           | Difficulty | Solution | Video | Note
 ------- | ------------------------------------- | -------- |--------|-------- |--------
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | [Link](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/887539/C-recursive-and-iterative-resolutions)  | |
-297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/discuss/665636/C-BFS-solution| |
+297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/discuss/665636/C-BFS-solution)| |
 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | Easy | [Link](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/542875/C-DFS-and-BFS-solution)  | [Video](https://www.youtube.com/watch?v=q3V-BiRFy6k&t=879s)|
 
 </div class="tree-table">
