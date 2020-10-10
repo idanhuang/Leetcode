@@ -49,6 +49,7 @@ Number  | Description                           | Difficulty | Solution | Video 
 Number  | Description                           | Difficulty | Solution | Video | Note
 ------- | ------------------------------------- | -------- |--------|-------- |--------
 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | [Link](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/612169/C-solution-(DFS-and-Two-pointer))  | |
+1214 | [Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/) | Medium | [Link](https://leetcode.com/problems/two-sum-bsts/discuss/887460/C-solutions)  | | inorder traversal + reverse inorder traversal
 
 </div class="dictionary-table">
 
