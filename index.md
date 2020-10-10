@@ -43,6 +43,15 @@ Number  | Description                           | Difficulty | Solution | Video 
 
 </div class="dictionary-table">
 
+# Tree
+<div class="tree-table">
+  
+Number  | Description                           | Difficulty | Solution | Video | Note
+------- | ------------------------------------- | -------- |--------|-------- |--------
+94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | [Link](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/887539/C-recursive-and-iterative-resolutions)  | |
+
+</div class="tree-table">
+
 # Binary Search Tree
 <div class="bst-table">
   
@@ -51,7 +60,7 @@ Number  | Description                           | Difficulty | Solution | Video 
 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | [Link](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/612169/C-solution-(DFS-and-Two-pointer))  | |
 1214 | [Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/) | Medium | [Link](https://leetcode.com/problems/two-sum-bsts/discuss/887460/C-solutions)  | | inorder traversal + reverse inorder traversal
 
-</div class="dictionary-table">
+</div class="bst-table">
 
 
 
