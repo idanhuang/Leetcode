@@ -31,7 +31,7 @@ Number  | Description                           | Difficulty | Solution | Video 
 ------- | ------------------------------------- | -------- |--------|--------|--------
 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted//) | Easy | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/885921/cjava-two-pointer-solution)  |  | two-pointer
 
-</div class="dictionary-table">
+</div class="array-table">
 
 # Dictionary
 <div class="dictionary-table">
@@ -49,6 +49,7 @@ Number  | Description                           | Difficulty | Solution | Video 
 Number  | Description                           | Difficulty | Solution | Video | Note
 ------- | ------------------------------------- | -------- |--------|-------- |--------
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | [Link](https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/887539/C-recursive-and-iterative-resolutions)  | |
+297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/discuss/665636/C-BFS-solution| |
 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | Easy | [Link](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/542875/C-DFS-and-BFS-solution)  | [Video](https://www.youtube.com/watch?v=q3V-BiRFy6k&t=879s)|
 
 </div class="tree-table">
@@ -62,38 +63,3 @@ Number  | Description                           | Difficulty | Solution | Video 
 1214 | [Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/) | Medium | [Link](https://leetcode.com/problems/two-sum-bsts/discuss/887460/C-solutions)  | | inorder traversal + reverse inorder traversal
 
 </div class="bst-table">
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Leetcode
-- ### [Array](https://github.com/idanhuang/Leetcode/blob/master/docs/Array.md)
-- ### [String](https://github.com/idanhuang/Leetcode/blob/master/docs/String.md)
-- ### [Dictionary/Hashtable](https://github.com/idanhuang/Leetcode/blob/master/docs/Dictionary.md)
-- ### HashSet
-- ### Heap
-- ### [LinkedList](https://github.com/idanhuang/Leetcode/blob/master/docs/LinkedList.md)
-- ### Stack
-- ### Queue
-- ### [Tree](https://github.com/idanhuang/Leetcode/tree/master/docs)
-- ### Binary Search Tree
-- ### Trie
-- ### [Graph](https://github.com/idanhuang/Leetcode/blob/master/docs/Graph.md)
-- ### Greedy
-- ### [Dynamic Programming](https://github.com/idanhuang/Leetcode/blob/master/docs/DynamicProgramming.md)
-- ### Backtracking
-- ### [Bit Manipulation](https://github.com/idanhuang/Leetcode/blob/master/docs/BitManipulation.md)
-- ### [Binary Search](https://github.com/idanhuang/Leetcode/blob/master/docs/BinarySearch.md)
-- ### [Math](https://github.com/idanhuang/Leetcode/blob/master/docs/Math.md)
-- ### [Sorting](https://github.com/idanhuang/Leetcode/blob/master/docs/Sorting.md)
-- ### [Sliding Window](https://github.com/idanhuang/Leetcode/blob/master/docs/SlidingWindow.md)
-- ### Design
