@@ -63,3 +63,13 @@ Number  | Description                           | Difficulty | Solution | Video 
 1214 | [Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/) | Medium | [Link](https://leetcode.com/problems/two-sum-bsts/discuss/887460/C-solutions)  | | inorder traversal + reverse inorder traversal
 
 </div class="bst-table">
+
+
+# Greedy
+<div class="greedy-table">
+  
+Number  | Description                           | Difficulty | Solution | Video | Note
+------- | ------------------------------------- | -------- |--------|-------- |--------
+435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | [Link](https://leetcode.com/problems/non-overlapping-intervals/discuss/794463/C-sort-by-end-(with-proof))| |
+
+</div class="greedy-table">
