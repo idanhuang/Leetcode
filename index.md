@@ -71,5 +71,6 @@ Number  | Description                           | Difficulty | Solution | Video 
 Number  | Description                           | Difficulty | Solution | Video | Note
 ------- | ------------------------------------- | -------- |--------|-------- |--------
 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | [Link](https://leetcode.com/problems/non-overlapping-intervals/discuss/794463/C-sort-by-end-(with-proof))| |
+455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Link](https://leetcode.com/problems/assign-cookies/discuss/893432/C-greedy-solution)| |
 
 </div class="greedy-table">
