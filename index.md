@@ -44,6 +44,7 @@ Number  | Description                           | Difficulty | Solution | Video 
 # LinkedList  
 Number  | Description                           | Difficulty | Solution | Video | Note
 ------- | ------------------------------------- | -------- |--------|--------|--------
+21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/discuss/580525/C-solutions-(Iterative-and-Recursive))  |  | dummy head is used in iterative solution
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Link](https://leetcode.com/problems/middle-of-the-linked-list/discuss/893775/C-two-pointer-solution)  |  | two-pointer
 
 
