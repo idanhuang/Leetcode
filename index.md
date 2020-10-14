@@ -43,6 +43,15 @@ Number  | Description                           | Difficulty | Solution | Video 
 
 </div class="dictionary-table">
 
+# LinkedList
+<div class="linkedList-table">
+  
+Number  | Description                           | Difficulty | Solution | Video | Note
+------- | ------------------------------------- | -------- |--------|--------|--------
+876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Link](https://leetcode.com/problems/middle-of-the-linked-list/discuss/893775/C-two-pointer-solution)  |  | two-pointer
+
+</div class="linkedList-table">
+
 # Tree
 <div class="tree-table">
   
