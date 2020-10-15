@@ -74,5 +74,7 @@ Number  | Description                           | Difficulty | Solution | Video 
 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | [Link](https://leetcode.com/problems/non-overlapping-intervals/discuss/794463/C-sort-by-end-(with-proof))| |
 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Link](https://leetcode.com/problems/assign-cookies/discuss/893432/C-greedy-solution)| |
 
-
-
+# Dynamic Programming
+Number  | Description                           | Difficulty | Solution | Video | Note
+------- | ------------------------------------- | -------- |--------|-------- |--------
+198 | [House Robber](https://leetcode.com/problems/house-robber/) | Easy | [Link](https://leetcode.com/problems/house-robber/discuss/847490/C-DP-solution-time-O(n)-space-O(1))| [Video](https://www.youtube.com/watch?v=Pr09bgsg4Qg)|
