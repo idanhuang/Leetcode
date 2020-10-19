@@ -71,6 +71,7 @@ Number  | Description                           | Difficulty | Solution | Video 
 # Greedy  
 Number  | Description                           | Difficulty | Solution | Video | Note
 ------- | ------------------------------------- | -------- |--------|-------- |--------
+53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [Link](https://leetcode.com/problems/maximum-subarray/discuss/633894/C-solutions-(Greedy-and-Kadane))| |Greedy & Kadane's
 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | [Link](https://leetcode.com/problems/non-overlapping-intervals/discuss/794463/C-sort-by-end-(with-proof))| |
 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [Link](https://leetcode.com/problems/assign-cookies/discuss/893432/C-greedy-solution)| |
 
