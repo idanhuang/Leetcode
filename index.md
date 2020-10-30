@@ -27,7 +27,8 @@
 # Array
 Number  | Description                           | Difficulty | Solution | Video | Note
 ------- | ------------------------------------- | -------- |--------|--------|--------
-167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted//) | Easy | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/885921/cjava-two-pointer-solution)  |  | two-pointer
+167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/discuss/885921/cjava-two-pointer-solution)  |  | two-pointer
+849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | Medium | [Link](https://leetcode.com/problems/maximize-distance-to-closest-person/discuss/916174/C-O(N)-one-pass-solution)  |  |
 
 
 
