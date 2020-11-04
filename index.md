@@ -34,6 +34,14 @@ Number  | Description                           | Difficulty | Solution | Video 
 
 
 
+# String
+Number  | Description                           | Difficulty | Solution | Video | Note
+------- | ------------------------------------- | -------- |--------|--------|--------
+1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | Easy | [Link](https://leetcode.com/problems/consecutive-characters/discuss/923000/C-one-pass-solution)  |  |
+
+
+
+
 # Dictionary  
 Number  | Description                           | Difficulty | Solution | Video | Note
 ------- | ------------------------------------- | -------- |--------|-------- |--------
