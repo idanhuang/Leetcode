@@ -37,6 +37,7 @@ Number  | Description                           | Difficulty | Solution | Video 
 # String
 Number  | Description                           | Difficulty | Solution | Video | Note
 ------- | ------------------------------------- | -------- |--------|--------|--------
+67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Link](https://leetcode.com/problems/add-binary/discuss/615989/C-O(n)-solution)  |  |
 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | Easy | [Link](https://leetcode.com/problems/consecutive-characters/discuss/923000/C-one-pass-solution)  |  |
 
 
