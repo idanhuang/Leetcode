@@ -96,3 +96,9 @@ Number  | Description                           | Difficulty | Solution | Video 
 ------- | ------------------------------------- | -------- |--------|-------- |--------
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/discuss/544022/C-solutions-(one-pass-and-DP))| | DP and one-pass
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Easy | [Link](https://leetcode.com/problems/house-robber/discuss/847490/C-DP-solution-time-O(n)-space-O(1))| [Video](https://www.youtube.com/watch?v=Pr09bgsg4Qg)|
+
+# Sliding-Window
+Number  | Description                           | Difficulty | Solution | Video | Note
+------- | ------------------------------------- | -------- |--------|-------- |--------
+3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/691421/C-sliding-window-solution)| |
+
