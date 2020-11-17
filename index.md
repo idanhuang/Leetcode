@@ -102,5 +102,6 @@ Number  | Description                           | Difficulty | Solution | Video 
 ------- | ------------------------------------- | -------- |--------|-------- |--------
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/691421/C-sliding-window-solution)| | Flexible-size sliding window
 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Link](https://leetcode.com/problems/minimum-size-subarray-sum/discuss/624044/C-sliding-window-O(n))| | Flexible-size sliding window
+1100 | [Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | Medium | [Link](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/discuss/938395/C-Sliding-Window-solution)| | Fixed-size sliding window
 1176 | [Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | Easy | [Link](https://leetcode.com/problems/diet-plan-performance/discuss/627649/C-sliding-window-solutions)| | Fixed-size sliding window
 
