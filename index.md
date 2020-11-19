@@ -57,6 +57,7 @@ Number  | Description                           | Difficulty | Solution | Video 
 ------- | ------------------------------------- | -------- |--------|--------|--------
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Link](https://leetcode.com/problems/add-two-numbers/discuss/578114/C-solution)  |  | 
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/discuss/580525/C-solutions-(Iterative-and-Recursive))  |  | dummy head is used in iterative solution
+83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/discuss/941179/C-one-pass-solution)  |  |
 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | Medium | [Link](https://leetcode.com/problems/insertion-sort-list/discuss/921524/C-solution)  | [Video](https://www.youtube.com/watch?v=t4EJjWf1Tl8) |
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Link](https://leetcode.com/problems/middle-of-the-linked-list/discuss/893775/C-two-pointer-solution)  |  | two-pointer
 
