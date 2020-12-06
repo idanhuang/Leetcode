@@ -63,7 +63,8 @@ Number  | Description                           | Difficulty | Solution | Video 
 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/discuss/941996/C-one-pass-solution)  |  |
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/discuss/941179/C-one-pass-solution)  |  |
 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | Medium | [Link](https://leetcode.com/problems/insertion-sort-list/discuss/921524/C-solution)  | [Video](https://www.youtube.com/watch?v=t4EJjWf1Tl8) |
-237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list/discuss/962428/C-O(1)-solution) |  |
+237 | [Delete Node in a Linked List](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list/discuss/962428/C-O(1)-solution) |  |
+203 | [Remove Linked List Elements](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [Link](https://leetcode.com/problems/remove-linked-list-elements/discuss/962609/C-O(N)-solution) |  |
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Link](https://leetcode.com/problems/middle-of-the-linked-list/discuss/893775/C-two-pointer-solution)  |  | two-pointer
 
 
