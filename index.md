@@ -85,6 +85,7 @@ Number  | Description                           | Difficulty | Solution | Video 
 # Binary Search Tree 
 Number  | Description                           | Difficulty | Solution | Video | Note
 ------- | ------------------------------------- | -------- |--------|-------- |--------
+572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | [Link](https://leetcode.com/problems/subtree-of-another-tree/discuss/550622/C-solution-(reuse-100-Same-Tree's-solution))  | |
 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | [Link](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/discuss/612169/C-solution-(DFS-and-Two-pointer))  | |
 1214 | [Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/) | Medium | [Link](https://leetcode.com/problems/two-sum-bsts/discuss/887460/C-solutions)  | | inorder traversal + reverse inorder traversal
 
