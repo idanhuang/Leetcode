@@ -9,5 +9,5 @@
 * 1/5
   - 451-Sort Characters By Frequency, Medium //TODO: Bucket Sort solution
 * 1/6
- - 82-Remove Duplicates from Sorted List II, Medium
- - 1539-Kth Missing Positive Number, Easy
+  - 82-Remove Duplicates from Sorted List II, Medium
+  - 1539-Kth Missing Positive Number, Easy
