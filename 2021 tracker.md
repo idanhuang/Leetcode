@@ -11,3 +11,5 @@
 * 1/6
   - 82-Remove Duplicates from Sorted List II, Medium
   - 1539-Kth Missing Positive Number, Easy
+* 1/7
+  - 3-Longest Substring Without Repeating Characters, Medium
