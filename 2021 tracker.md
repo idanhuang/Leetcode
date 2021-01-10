@@ -14,4 +14,6 @@
 * 1/7
   - [3]Longest Substring Without Repeating Characters, Medium
 * 1/8
-  - [1662]Check if two String arrays are equivalent
+  - [1662]Check if two String arrays are equivalent, Easy
+* 1/9
+  - [127]Word Ladder, Hard
