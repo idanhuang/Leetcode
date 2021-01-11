@@ -17,3 +17,5 @@
   - [1662]Check if two String arrays are equivalent, Easy
 * 1/9
   - [127]Word Ladder, Hard
+* 1/10
+  - [53]Maximum Subarray, Easy
