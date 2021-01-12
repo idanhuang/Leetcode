@@ -19,3 +19,5 @@
   - [127]Word Ladder, Hard
 * 1/10
   - [53]Maximum Subarray, Easy
+* 1/11
+  - [88]Merge Sorted Array, Easy
