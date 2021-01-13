@@ -21,3 +21,5 @@
   - [53]Maximum Subarray, Easy
 * 1/11
   - [88]Merge Sorted Array, Easy
+* 1/12
+  - [2]Add Two Numbers, Medium
