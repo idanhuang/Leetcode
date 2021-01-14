@@ -23,3 +23,5 @@
   - [88]Merge Sorted Array, Easy
 * 1/12
   - [2]Add Two Numbers, Medium
+* 1/13
+  - [433]Minimum Geneti Mutation, Medium
