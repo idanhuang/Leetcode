@@ -27,3 +27,5 @@
   - [433]Minimum Geneti Mutation, Medium
 * 1/14
   - [560]Subarray Sum Equals K, Medium
+* 1/15
+  - [1716]Calculate Money in Leetcode Bank, Easy
