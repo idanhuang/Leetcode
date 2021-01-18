@@ -32,3 +32,5 @@
   - [724]Find Pivot Index, Easy
 * 1/16
   - [215]Kth Largest Element in an Array.Medium
+* 1/17
+  - [215]Kth Largest Element in an Array.Medium, QuickSelection solution
