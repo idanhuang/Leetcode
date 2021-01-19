@@ -31,6 +31,8 @@
   - [1716]Calculate Money in Leetcode Bank, Easy
   - [724]Find Pivot Index, Easy
 * 1/16
-  - [215]Kth Largest Element in an Array.Medium
+  - [215]Kth Largest Element in an Array, Medium
 * 1/17
-  - [215]Kth Largest Element in an Array.Medium, QuickSelection solution
+  - [215]Kth Largest Element in an Array, Medium, QuickSelection solution
+* 1/18
+  - [912]Sort an Array, Medium
