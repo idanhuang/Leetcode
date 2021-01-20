@@ -36,3 +36,5 @@
   - [215]Kth Largest Element in an Array, Medium, QuickSelection solution
 * 1/18
   - [912]Sort an Array, Medium
+* 1/19
+  - [15]3 Sum, Medium
