@@ -38,3 +38,5 @@
   - [912]Sort an Array, Medium
 * 1/19
   - [15]3 Sum, Medium
+* 1/20
+  - [20]20 Valid Parntheses, Easy
