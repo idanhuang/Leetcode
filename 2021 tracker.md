@@ -39,4 +39,6 @@
 * 1/19
   - [15]3 Sum, Medium
 * 1/20
-  - [20]20 Valid Parntheses, Easy
+  - [20]Valid Parntheses, Easy
+* 1/21
+  - [21]Longest Palindromic Substring, Medium
