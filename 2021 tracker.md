@@ -42,3 +42,5 @@
   - [20]Valid Parntheses, Easy
 * 1/21
   - [21]Longest Palindromic Substring, Medium
+* 1/22
+  - [161]One Edit Distance, Medium
