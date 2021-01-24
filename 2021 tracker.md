@@ -46,3 +46,5 @@
   - [161]One Edit Distance, Medium
 * 1/23
   - [259]3Sum Smaller, Medium
+  - [1099]Two Sum Less Than K, Easy
+ 
