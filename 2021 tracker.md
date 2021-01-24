@@ -44,3 +44,5 @@
   - [5]Longest Palindromic Substring, Medium
 * 1/22
   - [161]One Edit Distance, Medium
+* 1/23
+  - [259]3Sum Smaller, Medium
