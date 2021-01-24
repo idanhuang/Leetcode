@@ -47,4 +47,5 @@
 * 1/23
   - [259]3Sum Smaller, Medium
   - [1099]Two Sum Less Than K, Easy
- 
+* 1/24
+  - [167]Two Sum II - Input array is sorted, Easy
