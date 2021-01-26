@@ -53,3 +53,5 @@
   - [746]Min Cost Climbing Stairs, Easy
 * 1/25
   - [23]Merge k Sorted Lists, Hard
+* 1/26
+  - [21]Merge Two Sorted Lists, Easy
