@@ -55,3 +55,4 @@
   - [23]Merge k Sorted Lists, Hard
 * 1/26
   - [21]Merge Two Sorted Lists, Easy
+  - [263]Ugly Number, Easy
