@@ -56,3 +56,5 @@
 * 1/26
   - [21]Merge Two Sorted Lists, Easy
   - [263]Ugly Number, Easy
+* 1/27
+  - [264]Ugly Number II, Medium
