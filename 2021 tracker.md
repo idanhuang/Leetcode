@@ -58,3 +58,5 @@
   - [263]Ugly Number, Easy
 * 1/27
   - [264]Ugly Number II, Medium
+* 1/28
+  - [277]Find the Celebrity, Medium
