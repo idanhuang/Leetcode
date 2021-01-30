@@ -60,3 +60,5 @@
   - [264]Ugly Number II, Medium
 * 1/28
   - [277]Find the Celebrity, Medium
+* 1/29
+  - [1736]Latest Time by Replacing Hidden Digits, Easy
