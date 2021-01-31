@@ -62,3 +62,5 @@
   - [277]Find the Celebrity, Medium
 * 1/29
   - [1736]Latest Time by Replacing Hidden Digits, Easy
+* 1/30
+  - [1675]Minimize Deviation in Array, Hard
