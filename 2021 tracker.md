@@ -64,3 +64,5 @@
   - [1736]Latest Time by Replacing Hidden Digits, Easy
 * 1/30
   - [1675]Minimize Deviation in Array, Hard
+* 1/31
+  - [31]Next Permutation, Medium
