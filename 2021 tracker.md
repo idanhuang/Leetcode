@@ -2,6 +2,7 @@
   - [1742]Maximum Number of Balls in a Box, Easy
   - [191]Number of 1 Bits, Easy
   - [1]Two Sum, Easy
+  - [3]Longest Substring Without Repeating Characters, Medium
 *******************************
 * 1/1
   - [1507]Reformat Date, Easy
