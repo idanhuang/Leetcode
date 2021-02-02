@@ -1,3 +1,6 @@
+* 2/1
+  - [1742]Maximum Number of Balls in a Box, Easy
+*******************************
 * 1/1
   - [1507]Reformat Date, Easy
 * 1/2
