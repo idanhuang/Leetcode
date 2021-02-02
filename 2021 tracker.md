@@ -1,6 +1,7 @@
 * 2/1
   - [1742]Maximum Number of Balls in a Box, Easy
   - [191]Number of 1 Bits, Easy
+  - [1]Two Sum, Easy
 *******************************
 * 1/1
   - [1507]Reformat Date, Easy
