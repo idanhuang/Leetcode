@@ -1,3 +1,5 @@
+* 2/2
+  - [669]Trim a Binary Search Tree, Medium
 * 2/1
   - [1742]Maximum Number of Balls in a Box, Easy
   - [191]Number of 1 Bits, Easy
