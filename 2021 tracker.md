@@ -1,3 +1,5 @@
+* 2/3
+- [8]String to Integer (atoi)
 * 2/2
   - [669]Trim a Binary Search Tree, Medium
 * 2/1
