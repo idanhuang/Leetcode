@@ -1,5 +1,7 @@
+* 2/4
+  - [594]Longest Harmonious Subsequence, Easy
 * 2/3
-  - [8]String to Integer (atoi)
+  - [8]String to Integer (atoi), Medium
 * 2/2
   - [669]Trim a Binary Search Tree, Medium
 * 2/1
