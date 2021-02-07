@@ -1,3 +1,5 @@
+* 2/6
+  - [141]Linked List Cycle, Easy
 * 2/5
   - [71]placeholder
 * 2/4
