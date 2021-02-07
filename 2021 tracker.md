@@ -3,7 +3,7 @@
 * 2/6
   - [141]Linked List Cycle, Easy
 * 2/5
-  - [71]placeholder
+  - [71]Simplify Path, Medium
 * 2/4
   - [594]Longest Harmonious Subsequence, Easy
 * 2/3
