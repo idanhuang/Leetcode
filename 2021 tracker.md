@@ -1,3 +1,5 @@
+* 2/7
+  - [594]Longest Harmonious Subsequence, Easy
 * 2/6
   - [141]Linked List Cycle, Easy
 * 2/5
