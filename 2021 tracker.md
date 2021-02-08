@@ -1,6 +1,7 @@
 * 2/7
   - [594]Longest Harmonious Subsequence, Easy
   - [142]Linked List Cycle II, Medium
+  - [1752]Check if Array Is Sorted and Rotated, Easy
 * 2/6
   - [141]Linked List Cycle, Easy
 * 2/5
