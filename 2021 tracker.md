@@ -1,6 +1,7 @@
 * 2/8
   - [1748]Sum of Unique Elements,Easy
   - [796]Rotate String,Easy
+  - [8]String to Integer (atoi), Medium
 * 2/7
   - [594]Longest Harmonious Subsequence, Easy
   - [142]Linked List Cycle II, Medium
