@@ -1,3 +1,5 @@
+* 2/11
+  - [242]Valid Anagram, Easy
 * 2/10
   - [138]Copy List with Random Pointer, Medium
 * 2/9
