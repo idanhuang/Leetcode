@@ -1,5 +1,6 @@
 * 2/11
   - [242]Valid Anagram, Easy
+  - [49]Group Anagrams, Medium
 * 2/10
   - [138]Copy List with Random Pointer, Medium
 * 2/9
