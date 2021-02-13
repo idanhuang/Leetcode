@@ -1,3 +1,5 @@
+* 2/12
+  - [249]Group Shifted Strings, Medium
 * 2/11
   - [242]Valid Anagram, Easy
   - [49]Group Anagrams, Medium
