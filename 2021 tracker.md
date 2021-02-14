@@ -1,4 +1,6 @@
 * 2/13
+  - [268]Missing Number, Easy
+* 2/13
   - [1758]Minimum Changes To Make Alternating Binary String, Easy
 * 2/12
   - [249]Group Shifted Strings, Medium
