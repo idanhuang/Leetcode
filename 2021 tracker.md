@@ -4,6 +4,7 @@
   - [287]Find the Duplicate Number, Medium
   - [1684]Count the Number of Consistent Strings, Easy
   - [1165]Single-Row Keyboard, Easy
+  - [1732]Find the Highest Altitude, Easy
 * 2/13
   - [1758]Minimum Changes To Make Alternating Binary String, Easy
 * 2/12
