@@ -1,7 +1,7 @@
-* 2/13
-  - [287]Find the Duplicate Number, Medium
-* 2/13
+
+* 2/14
   - [268]Missing Number, Easy
+  - [287]Find the Duplicate Number, Medium
 * 2/13
   - [1758]Minimum Changes To Make Alternating Binary String, Easy
 * 2/12
