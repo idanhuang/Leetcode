@@ -2,6 +2,7 @@
 * 2/14
   - [268]Missing Number, Easy
   - [287]Find the Duplicate Number, Medium
+  - [1684]Count the Number of Consistent Strings, Easy
 * 2/13
   - [1758]Minimum Changes To Make Alternating Binary String, Easy
 * 2/12
