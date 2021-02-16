@@ -1,4 +1,5 @@
-
+* 2/15
+  - [1134]Armstrong Number, Easy
 * 2/14
   - [268]Missing Number, Easy
   - [287]Find the Duplicate Number, Medium
