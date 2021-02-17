@@ -1,5 +1,7 @@
+* 2/17
+  - [709]To Lower Case, Easy
 * 2/16
-  - [784]Letter Case Permutation, Medium, placeholder
+  - [784]Letter Case Permutation, Medium
 * 2/15
   - [1134]Armstrong Number, Easy
 * 2/14
