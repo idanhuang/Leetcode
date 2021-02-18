@@ -1,5 +1,6 @@
 * 2/17
   - [709]To Lower Case, Easy
+  - [1710]Maximujm Units on a Truck, Easy
 * 2/16
   - [784]Letter Case Permutation, Medium
 * 2/15
