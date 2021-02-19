@@ -1,3 +1,5 @@
+* 2/18
+  - [413]Arithmetic Slices, Medium
 * 2/17
   - [709]To Lower Case, Easy
   - [1710]Maximujm Units on a Truck, Easy
