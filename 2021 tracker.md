@@ -1,5 +1,6 @@
 * 2/18
   - [413]Arithmetic Slices, Medium
+  - [1431]Kids With the Greatest Number of Candies, Easy
 * 2/17
   - [709]To Lower Case, Easy
   - [1710]Maximujm Units on a Truck, Easy
