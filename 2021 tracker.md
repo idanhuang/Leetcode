@@ -1,3 +1,5 @@
+* 2/19
+  - [1528]Shuffle String, Easy
 * 2/18
   - [413]Arithmetic Slices, Medium
   - [1431]Kids With the Greatest Number of Candies, Easy
