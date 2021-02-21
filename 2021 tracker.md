@@ -1,5 +1,6 @@
 * 2/20
   - [13]Roman to Integer, Easy
+  - [1030]Matrix Cells in Distance Order
 * 2/19
   - [1528]Shuffle String, Easy
   - [1249]Minimum Remove to Make Valid Parentheses, Medium
