@@ -1,6 +1,7 @@
 * 2/20
   - [13]Roman to Integer, Easy
-  - [1030]Matrix Cells in Distance Order
+  - [1030]Matrix Cells in Distance Order,Easy
+  - [1265]Print Immutable Linked List in Reverse, Medium
 * 2/19
   - [1528]Shuffle String, Easy
   - [1249]Minimum Remove to Make Valid Parentheses, Medium
