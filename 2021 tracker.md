@@ -1,3 +1,5 @@
+* 2/20
+  - [13]Roman to Integer, Easy
 * 2/19
   - [1528]Shuffle String, Easy
   - [1249]Minimum Remove to Make Valid Parentheses, Medium
