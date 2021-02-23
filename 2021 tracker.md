@@ -1,5 +1,6 @@
 * 2/22
   - [277]Find the Celebrity, Medium
+  - [524]Longest Word in Dictionary through Deleting, Medium
 * 2/21
   - [1570]Dot Product of Two Sparse Vectors, Medium
 * 2/20
