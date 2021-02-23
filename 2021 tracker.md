@@ -1,3 +1,5 @@
+* 2/23
+  - [74]Search a 2D Matrix, Medium
 * 2/22
   - [277]Find the Celebrity, Medium
   - [524]Longest Word in Dictionary through Deleting, Medium
