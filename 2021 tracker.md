@@ -1,4 +1,6 @@
 * 2/23
+  - [7]Reverse Integer, Easy
+* 2/23
   - [74]Search a 2D Matrix, Medium
   - [240]Search a 2D Matrix II, Medium
 * 2/22
