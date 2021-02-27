@@ -1,3 +1,5 @@
+* 2/27
+  - [1010]Pairs of Songs With Total Durations Divisible by 60, Medium
 * 2/26
   - [946]Validate Stack Sequences, Medium
 * 2/25
