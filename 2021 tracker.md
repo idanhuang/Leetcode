@@ -1,3 +1,5 @@
+* 2/26
+  - [946]Validate Stack Sequences, Medium
 * 2/25
   - [581]Shortest Unsorted Continuous Subarray, Medium
 * 2/24
