@@ -1,4 +1,6 @@
 * 2/27
+  - [895]Maximum Frequency Stack, Hard
+* 2/27
   - [1010]Pairs of Songs With Total Durations Divisible by 60, Medium
 * 2/26
   - [946]Validate Stack Sequences, Medium
