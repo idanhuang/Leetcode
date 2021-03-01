@@ -1,6 +1,7 @@
 * 2/28
   - [895]Maximum Frequency Stack, Hard
   - [104]Maximum Depth of Binary Tree, Easy
+  - [572]Subtree of Another Tree, Easy
 * 2/27
   - [1010]Pairs of Songs With Total Durations Divisible by 60, Medium
 * 2/26
