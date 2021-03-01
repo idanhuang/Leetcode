@@ -1,3 +1,4 @@
+
 * 2/28
   - [895]Maximum Frequency Stack, Hard
   - [104]Maximum Depth of Binary Tree, Easy
@@ -75,7 +76,8 @@
   - [191]Number of 1 Bits, Easy
   - [1]Two Sum, Easy
   - [3]Longest Substring Without Repeating Characters, Medium
-*******************************
+
+## January: Easy 16, Medium 17, Hard 3
 * 1/1
   - [1507]Reformat Date, Easy
 * 1/2
