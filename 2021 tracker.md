@@ -1,3 +1,6 @@
+* 3/1
+  - [1165]Single-Row Keyboard,Easy
+  - [575]Distribute Candies,Easy
 # February: Easy 26, Medium 22, Hard 1
 * 2/28
   - [895]Maximum Frequency Stack, Hard
