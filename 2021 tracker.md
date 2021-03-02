@@ -1,5 +1,6 @@
 * 3/2
   - [645]Set Mismatch,Easy
+  - [287]Find the Duplicate Number,Medium
 * 3/1
   - [1165]Single-Row Keyboard,Easy
   - [575]Distribute Candies,Easy
