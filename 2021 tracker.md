@@ -1,4 +1,6 @@
 * 3/2
+  - [268]Missing Number,Easy
+* 3/2
   - [645]Set Mismatch,Easy
   - [287]Find the Duplicate Number,Medium
 * 3/1
