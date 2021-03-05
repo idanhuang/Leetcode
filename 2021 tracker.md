@@ -1,3 +1,5 @@
+* 3/5
+  - [637]Average of Levels in Binary Tree,Easy
 * 3/4
   - [160]Intersection of Two Linked Lists,Easy
 * 3/3
