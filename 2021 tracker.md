@@ -1,4 +1,6 @@
 * 3/5
+  - [1773]Count Items Matching a Rule,Easy
+* 3/5
   - [637]Average of Levels in Binary Tree,Easy
 * 3/4
   - [160]Intersection of Two Linked Lists,Easy
