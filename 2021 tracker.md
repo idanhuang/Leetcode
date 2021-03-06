@@ -1,4 +1,4 @@
-* 3/5
+* 3/6
   - [1773]Count Items Matching a Rule,Easy
 * 3/5
   - [637]Average of Levels in Binary Tree,Easy
