@@ -1,3 +1,6 @@
+
+* 3/8
+  - [1332]Remove Palindromic Subsequences,Easy
 * 3/7
   - [1768]Merge Strings Alternately,Easy
 * 3/6
