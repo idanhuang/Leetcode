@@ -1,5 +1,5 @@
 * 3/7
-  - null. Busy with work.
+  - [1768]Merge Strings Alternately,Easy
 * 3/6
   - [1773]Count Items Matching a Rule,Easy
 * 3/5
