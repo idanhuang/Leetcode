@@ -1,4 +1,5 @@
-
+* 3/13
+  - [1779]Find Nearest Point That Has the Same X or Y Coordinate,Easy
 * 3/11
   - [null]Will do 2 later
 * 3/10
