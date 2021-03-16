@@ -1,3 +1,5 @@
+* 3/15
+  - [1720]Decode XORed Array,Easy
 * 3/14
   - [1790]Check if One String Swap Can Make Strings Equal,Easy
 * 3/13
