@@ -1,3 +1,6 @@
+* 3/16
+  - [121]Best Time to Buy and Sell Stock,Easy
+  - [714]Best Time to Buy and Sell Stock with Transaction Fee,Medium
 * 3/15
   - [1720]Decode XORed Array,Easy
 * 3/14
