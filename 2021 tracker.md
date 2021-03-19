@@ -1,3 +1,8 @@
+* 3/18
+  - [1708]Largest Subarray Length K, Easy
+  - [15]3 Sum, Medium
+* 3/17
+  - [null]
 * 3/16
   - [121]Best Time to Buy and Sell Stock,Easy
   - [714]Best Time to Buy and Sell Stock with Transaction Fee,Medium
@@ -8,9 +13,9 @@
 * 3/13
   - [1779]Find Nearest Point That Has the Same X or Y Coordinate,Easy
 * 3/11
-  - [null]Will do 2 later
+  - [null]
 * 3/10
-  - [null]Will do 2 later
+  - [null]
 * 3/9
   - [1629]Slowest Key,Easy
 * 3/8
