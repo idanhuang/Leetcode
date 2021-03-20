@@ -1,3 +1,5 @@
+* 3/19
+  - [1694]Reformat Phone Number, Easy
 * 3/18
   - [1708]Largest Subarray Length K, Easy
   - [15]3 Sum, Medium
