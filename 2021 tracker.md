@@ -1,5 +1,8 @@
+* 3/21
+  - [1796]Second Largest Digit in a String, Easy
+  - [1800]Maximum Ascending Subarray Sum, Easy
 * 3/20
-  - [841]Keys and Roomsr, Medium
+  - [841]Keys and Rooms, Medium
 * 3/19
   - [1694]Reformat Phone Number, Easy
 * 3/18
