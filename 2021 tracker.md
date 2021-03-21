@@ -1,6 +1,7 @@
 * 3/21
   - [1796]Second Largest Digit in a String, Easy
   - [1800]Maximum Ascending Subarray Sum, Easy
+  - [16]3Sum Closest, Medium
 * 3/20
   - [841]Keys and Rooms, Medium
 * 3/19
