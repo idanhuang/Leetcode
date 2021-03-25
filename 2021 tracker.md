@@ -1,3 +1,5 @@
+* 3/24
+  - [870]Advantage Shuffle, Medium
 * 3/23
   - [54]Spiral Matrix, Medium
 * 3/22
