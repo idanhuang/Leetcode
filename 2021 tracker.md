@@ -1,5 +1,6 @@
 * 3/26
   - [1550]Three Consecutive Odds, Easy
+  - [916]Word Subsets, Medium
 * 3/25
   - [417]Pacific Atlantic Water Flow, Medium
 * 3/24
