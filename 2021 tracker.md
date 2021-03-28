@@ -1,4 +1,6 @@
 * 3/26
+  - [1805]Number of Different Integers in a String, Easy
+* 3/26
   - [1550]Three Consecutive Odds, Easy
   - [916]Word Subsets, Medium
 * 3/25
