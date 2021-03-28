@@ -1,4 +1,6 @@
-* 3/26
+* 3/27
+  - [423]Reconstruct Original Digits from English, Medium
+* 3/27
   - [1805]Number of Different Integers in a String, Easy
 * 3/26
   - [1550]Three Consecutive Odds, Easy
