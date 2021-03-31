@@ -1,4 +1,6 @@
 * 3/29
+  - [300]Longest Increasing Subsequence, Medium
+* 3/29
   - [48]Rotate Image, Medium
 * 3/28
   - [348]Design Tic-Tac-Toe, Medium
