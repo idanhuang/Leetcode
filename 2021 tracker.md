@@ -1,3 +1,5 @@
+* 4/2
+  - [547]Number of Provinces, Medium
 * 4/1
   - [1133]Largest Unique Number, Easy
   - [234]Palindrome Linked List, Easy
