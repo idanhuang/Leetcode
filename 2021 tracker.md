@@ -2,6 +2,7 @@
   - [323]Number of Connected Components in an Undirected Graph, Medium
   - [200]Number of Islands, Medium
   - [694]Number of Distinct Islands, Medium
+  - [102]Binary Tree Level Order Traversal,Medium
 * 4/2
   - [547]Number of Provinces, Medium
 * 4/1
