@@ -1,4 +1,6 @@
 * 4/3
+  - [637]Average of Levels in Binary Tree, Easy
+* 4/3
   - [323]Number of Connected Components in an Undirected Graph, Medium
   - [200]Number of Islands, Medium
   - [694]Number of Distinct Islands, Medium
