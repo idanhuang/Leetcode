@@ -1,3 +1,5 @@
+* 4/5
+  - [775]Global and Local Inversions, Medium
 * 4/4
   - [637]Average of Levels in Binary Tree, Easy
   - [622]Design Circular Queue, Medium
