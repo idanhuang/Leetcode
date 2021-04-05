@@ -4,6 +4,7 @@
   - [641]Design Circular Deque, Medium
   - [1812]Determine Color of a Chessboard Square, Easy
   - [1816]Truncate Sentence, Easy
+  - [1817]Finding the Users Active Minutes, Medium
 * 4/3
   - [323]Number of Connected Components in an Undirected Graph, Medium
   - [200]Number of Islands, Medium
