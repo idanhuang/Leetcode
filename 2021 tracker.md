@@ -1,5 +1,6 @@
 * 4/6
   - [463]Island Perimeter, Easy
+  - [139]Word Break, Medium
 * 4/5
   - [775]Global and Local Inversions, Medium
   - [167]Two Sum II - Input array is sorted, Easy
