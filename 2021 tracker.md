@@ -1,5 +1,6 @@
 * 4/7
    - [139]Word Break, Medium
+   - [1704]Determine if String Halves Are Alike, Easy
 * 4/6
   - [463]Island Perimeter, Easy
 * 4/5
