@@ -1,3 +1,5 @@
+* 4/8
+   - [146]LRU Cache, Medium
 * 4/7
    - [139]Word Break, Medium
    - [1704]Determine if String Halves Are Alike, Easy
