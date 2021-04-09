@@ -1,5 +1,6 @@
 * 4/9
    - [144]Binary Tree Preorder Traversal, Medium
+   - [94]Binary Tree Inorder Traversal, Medium
 * 4/8
    - [146]LRU Cache, Medium
 * 4/7
