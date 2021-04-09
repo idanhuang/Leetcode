@@ -3,6 +3,7 @@
    - [94]Binary Tree Inorder Traversal, Medium
    - [144]Binary Tree Postorder Traversal, Medium
    - [590]N-ary Tree Postorder Traversal, Easy
+   - [589]N-ary Tree Preorder Traversal, Easy
 * 4/8
    - [146]LRU Cache, Medium
 * 4/7
