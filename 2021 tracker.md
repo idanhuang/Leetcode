@@ -1,3 +1,5 @@
+* 4/10
+   - [255]Verify Preorder Sequence in Binary Search Tree, Medium
 * 4/9
    - [144]Binary Tree Preorder Traversal, Medium
    - [94]Binary Tree Inorder Traversal, Medium
