@@ -3,6 +3,7 @@
    - [760]Find Anagram Mappings, Easy
    - [70]Climbing Stairs, Easy
    - [121]Best Time to Buy and Sell Stock, Easy
+   - [53]Maximum Subarray, Easy
 * 4/10
    - [255]Verify Preorder Sequence in Binary Search Tree, Medium
    - [953]Verifying an Alien Dictionary, Easy
