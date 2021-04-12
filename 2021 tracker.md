@@ -3,6 +3,7 @@
    - [46]Permutations, Medium
    - [47]Permutations II, Medium
    - [249]Group Shifted Strings, Medium
+   - [49]Group Anagrams, Medium
 * 4/11
    - [1302]Deepest Leave Sum, Medium
    - [760]Find Anagram Mappings, Easy
