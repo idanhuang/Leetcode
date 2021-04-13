@@ -5,6 +5,7 @@
    - [249]Group Shifted Strings, Medium
    - [49]Group Anagrams, Medium
    - [242]Valid Anagram, Easy
+   - [438]Find All Anagrams in a String, Medium
 * 4/11
    - [1302]Deepest Leave Sum, Medium
    - [760]Find Anagram Mappings, Easy
