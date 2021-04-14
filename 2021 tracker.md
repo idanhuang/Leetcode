@@ -1,6 +1,7 @@
 * 4/14
    - [86]Partition List, Medium
    - [807]Max Increase to Keep City Skyline, Medium
+   - [1265]Print Immutable Linked List in Reverse, Medium
 * 4/13
    - [230]Kth Smallest Element in a BST, Medium
    - [1455]Check If a Word Occurs As a Prefix of Any Word in a Sentence, Easy
