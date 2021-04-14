@@ -1,6 +1,7 @@
 * 4/13
    - [230]Kth Smallest Element in a BST, Medium
    - [1455]Check If a Word Occurs As a Prefix of Any Word in a Sentence, Easy
+   - [665]Non-decreasing Array, Medium
 * 4/12
    - [1772]Sort Features by Popularity, Medium
    - [46]Permutations, Medium
