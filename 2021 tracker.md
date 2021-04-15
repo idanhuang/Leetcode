@@ -1,5 +1,6 @@
 * 4/15
    - [1769]Minimum Number of Operations to Move All Balls to Each Box, Medium
+   - [1791]Find Center of Star Graph, Medium
 * 4/14
    - [86]Partition List, Medium
    - [807]Max Increase to Keep City Skyline, Medium
