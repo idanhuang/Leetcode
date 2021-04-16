@@ -1,5 +1,6 @@
 * 4/16
    - [429]N-ary Tree Level Order Traversal, Medium
+   - [1490]Clone N-ary Tree, Medium
 * 4/15
    - [1769]Minimum Number of Operations to Move All Balls to Each Box, Medium
    - [1791]Find Center of Star Graph, Medium
