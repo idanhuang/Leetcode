@@ -1,4 +1,6 @@
 * 4/16
+   - [700]Search in a Binary Search Tree, Easy
+* 4/16
    - [429]N-ary Tree Level Order Traversal, Medium
    - [1490]Clone N-ary Tree, Medium
    - [1047]Remove All Adjacent Duplicates In String, Easy
