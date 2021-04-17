@@ -4,6 +4,7 @@
    - [1047]Remove All Adjacent Duplicates In String, Easy
    - [1209]Remove All Adjacent Duplicates In String II, Medium
    - [133]Clone Graph, Medium
+   - [138]Copy List with Random Pointer, Medium
 * 4/15
    - [1769]Minimum Number of Operations to Move All Balls to Each Box, Medium
    - [1791]Find Center of Star Graph, Medium
