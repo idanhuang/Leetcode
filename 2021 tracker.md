@@ -3,6 +3,7 @@
    - [797]All Paths From Source to Target, Medium
    - [200]Number of Islands, Medium
    - [695]Max Area of Island, Medium
+   - [547]Number of Provinces, Medium
 * 4/17
    - [700]Search in a Binary Search Tree, Easy
 * 4/16
