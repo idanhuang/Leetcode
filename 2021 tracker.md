@@ -4,6 +4,7 @@
    - [200]Number of Islands, Medium
    - [695]Max Area of Island, Medium
    - [547]Number of Provinces, Medium
+   - [1663]Smallest String With A Given Numeric Value, Medium
 * 4/17
    - [700]Search in a Binary Search Tree, Easy
 * 4/16
