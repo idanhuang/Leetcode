@@ -8,6 +8,7 @@
    - [19]Remove Nth Node From End of List, Medium
    - [1605]Find Valid Matrix Given Row and Column Sums, Medium
    - [1561]Maximum Number of Coins You Can Get, Medium
+   - [1550]Three Consecutive Odds, Easy
 * 4/17
    - [700]Search in a Binary Search Tree, Easy
 * 4/16
