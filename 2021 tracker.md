@@ -3,6 +3,7 @@
    - [40]Combination Sum II, Medium
    - [216]Combination Sum III, Medium
    - [377]Combination Sum IV, Medium
+   - [112]Path Sum, Easy
 * 4/18
    - [323]Number of Connected Components in an Undirected Graph, Medium
    - [797]All Paths From Source to Target, Medium
