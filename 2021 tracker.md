@@ -1,3 +1,5 @@
+* 4/20
+   - [876]Middle of the Linked List, Easy
 * 4/19
    - [39]Combination Sum, Medium
    - [40]Combination Sum II, Medium
