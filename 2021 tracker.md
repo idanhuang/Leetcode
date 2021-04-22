@@ -1,6 +1,7 @@
 * 4/21
    - [120]Triangle, Medium
    - [210]Course Schedule II, Medium
+   - [1136]Parallel Courses, Medium
 * 4/20
    - [876]Middle of the Linked List, Easy
    - [442]Find All Duplicates in an Array, Medium
