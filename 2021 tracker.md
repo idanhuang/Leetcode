@@ -1,3 +1,5 @@
+* 4/21
+   - [120]Triangle, Medium
 * 4/20
    - [876]Middle of the Linked List, Easy
    - [442]Find All Duplicates in an Array, Medium
