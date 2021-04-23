@@ -4,6 +4,7 @@
    - [151]Reverse Words in a String, Medium
    - [41]First Missing Positive, Hard
    - [543]Diameter of Binary Tree, Easy
+   - [1522]Diameter of N-Ary Tree, Medium
 * 4/22
    - [670]Maximum Swap, Medium
    - [554]Brick Wall, Medium
