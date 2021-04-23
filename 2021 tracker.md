@@ -1,5 +1,6 @@
 * 4/23
    - [1448]Count Good Nodes in Binary Tree, Medium
+   - [46]LRU Cache, Medium
 * 4/22
    - [670]Maximum Swap, Medium
    - [554]Brick Wall, Medium
