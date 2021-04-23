@@ -2,7 +2,7 @@
    - [670]Maximum Swap, Medium
    - [554]Brick Wall, Medium
    - [937]Reorder Data in Log Files, Easy
-   - [763]Partition Labels, Easy
+   - [763]Partition Labels, Medium
 * 4/21
    - [120]Triangle, Medium
    - [210]Course Schedule II, Medium
