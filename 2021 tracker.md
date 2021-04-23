@@ -1,6 +1,7 @@
 * 4/22
    - [670]Maximum Swap, Medium
    - [554]Brick Wall, Medium
+   - [937]Reorder Data in Log Files, Easy
 * 4/21
    - [120]Triangle, Medium
    - [210]Course Schedule II, Medium
