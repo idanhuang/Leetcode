@@ -1,3 +1,6 @@
+* 4/24
+   - [271]Encode and Decode Strings, Medium
+   - [323]Number of Connected Components in an Undirected Graph, Medium
 # April: Easy 35, Medium 73, Hard 3
 * 4/23
    - [1448]Count Good Nodes in Binary Tree, Medium
