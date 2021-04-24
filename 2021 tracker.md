@@ -1,3 +1,4 @@
+# April: Easy 35, Medium 73, Hard 3
 * 4/23
    - [1448]Count Good Nodes in Binary Tree, Medium
    - [146]LRU Cache, Medium
