@@ -1,8 +1,10 @@
+* 4/25
+   - [21]Merge Two Sorted Lists, Easy
+# April: Easy 35, Medium 76, Hard 3
 * 4/24
    - [271]Encode and Decode Strings, Medium
    - [323]Number of Connected Components in an Undirected Graph, Medium
    - [261]Graph Valid Tree, Medium
-# April: Easy 35, Medium 73, Hard 3
 * 4/23
    - [1448]Count Good Nodes in Binary Tree, Medium
    - [146]LRU Cache, Medium
