@@ -4,6 +4,7 @@
    - [80]Remove Duplicates from Sorted Array II, Medium
    - [48]Rotate Image, Medium
    - [628]Maximum Product of Three Numbers, Easy
+   - [1832]Check if the Sentence Is Pangram, Easy
 # April: Easy 35, Medium 76, Hard 3
 * 4/24
    - [271]Encode and Decode Strings, Medium
