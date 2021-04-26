@@ -1,3 +1,4 @@
+# April: Easy 40, Medium 78, Hard 3
 * 4/25
    - [21]Merge Two Sorted Lists, Easy
    - [26]Remove Duplicates from Sorted Array, Easy
@@ -5,7 +6,7 @@
    - [48]Rotate Image, Medium
    - [628]Maximum Product of Three Numbers, Easy
    - [1832]Check if the Sentence Is Pangram, Easy
-# April: Easy 35, Medium 76, Hard 3
+   - [1837]Sum of Digits in Base K, Easy
 * 4/24
    - [271]Encode and Decode Strings, Medium
    - [323]Number of Connected Components in an Undirected Graph, Medium
