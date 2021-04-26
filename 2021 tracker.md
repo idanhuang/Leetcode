@@ -2,6 +2,7 @@
    - [21]Merge Two Sorted Lists, Easy
    - [26]Remove Duplicates from Sorted Array, Easy
    - [80]Remove Duplicates from Sorted Array II, Medium
+   - [48]Rotate Image, Medium
 # April: Easy 35, Medium 76, Hard 3
 * 4/24
    - [271]Encode and Decode Strings, Medium
