@@ -1,3 +1,5 @@
+* 4/26
+   - [384]Shuffle an Array, Medium
 # April: Easy 41, Medium 78, Hard 3
 * 4/25
    - [21]Merge Two Sorted Lists, Easy
