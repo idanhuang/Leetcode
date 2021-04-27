@@ -1,5 +1,5 @@
 
-update by Jing
+updated by Jing & Ming
 
 * 4/27
    - [62]Unique Paths, Medium
