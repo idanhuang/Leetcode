@@ -1,6 +1,7 @@
+# April: Easy 41, Medium 80, Hard 3
 * 4/26
    - [384]Shuffle an Array, Medium
-# April: Easy 41, Medium 78, Hard 3
+   - [91] Decode Ways, Medium
 * 4/25
    - [21]Merge Two Sorted Lists, Easy
    - [26]Remove Duplicates from Sorted Array, Easy
