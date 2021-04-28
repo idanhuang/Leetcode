@@ -5,6 +5,7 @@ updated by Jing & Ming
    - [62]Unique Paths, Medium
    - [63]Unique Paths II, Medium
    - [980]Unique Paths III, Hard
+   - [973]K Closest Points to Origin, Medium
 # April: Easy 41, Medium 80, Hard 3
 * 4/26
    - [384]Shuffle an Array, Medium
