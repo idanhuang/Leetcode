@@ -1,6 +1,8 @@
 
-updated by Jing on 4/28
+updated by Jing on 4/29
 
+* 4/29
+   - [169]Majority Element, Easy
 # April: Easy 41, Medium 83, Hard 6
 * 4/28
    - [295]Find Median from Data Stream, Hard
