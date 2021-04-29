@@ -1,9 +1,10 @@
 
 updated by Jing on 4/28
 
+# April: Easy 41, Medium 83, Hard 6
 * 4/28
    - [295]Find Median from Data Stream, Hard
-# April: Easy 41, Medium 83, Hard 4
+   - [4]Median of Two Sorted Arrays, Hard
 * 4/27
    - [62]Unique Paths, Medium
    - [63]Unique Paths II, Medium
