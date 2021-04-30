@@ -1,10 +1,11 @@
 
-updated by Jing on 4/29
+updated by Ming on 4/30
 
+# April: Easy 42, Medium 85, Hard 6
 * 4/29
    - [169]Majority Element, Easy
    - [34]Find First and Last Position of Element in Sorted Array, Medium
-# April: Easy 41, Medium 83, Hard 6
+   - [1229]Meeting Scheduler, Medium
 * 4/28
    - [295]Find Median from Data Stream, Hard
    - [4]Median of Two Sorted Arrays, Hard
