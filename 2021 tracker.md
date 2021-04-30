@@ -4,6 +4,7 @@ updated by Ming on 4/30
    - [970]Powerful Integers, Medium
    - [1252]Cells with Odd Values in a Matrix, Easy
    - [380]Insert Delete GetRandom O(1), Medium
+   - [495]Teemo Attacking, Medium
 # April: Easy 42, Medium 85, Hard 6
 * 4/29
    - [169]Majority Element, Easy
