@@ -1,6 +1,7 @@
 
 updated by Ming on 4/30
-
+* 4/30
+   - [970]Powerful Integers, Medium
 # April: Easy 42, Medium 85, Hard 6
 * 4/29
    - [169]Majority Element, Easy
