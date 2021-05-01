@@ -1,6 +1,7 @@
 * 5/1
    - [797]All Paths From Source to Target, Medium
    - [323]Number of Connected Components in an Undirected Graph, Medium
+   - [208]Implement Trie (Prefix Tree), Medium
 
 # April: Easy 44, Medium 90, Hard 6
 * 4/30
