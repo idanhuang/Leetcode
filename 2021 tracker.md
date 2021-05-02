@@ -1,5 +1,6 @@
 * 5/2
    - [79]Word Search, Medium
+   - [212]Word Search II, Hard
 * 5/1
    - [797]All Paths From Source to Target, Medium
    - [323]Number of Connected Components in an Undirected Graph, Medium
