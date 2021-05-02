@@ -3,6 +3,7 @@
    - [323]Number of Connected Components in an Undirected Graph, Medium
    - [208]Implement Trie (Prefix Tree), Medium
    - [1804]Implement Trie II (Prefix Tree), Medium
+   - [211]Design Add and Search Words Data Structure, Medium
 
 # April: Easy 44, Medium 90, Hard 6
 * 4/30
