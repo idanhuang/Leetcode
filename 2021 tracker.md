@@ -1,6 +1,6 @@
 * 5/3
    - [1480]Running Sum of 1d Array, Easy
-   - [215]Kth Largest Element in an Array
+   - [215]Kth Largest Element in an Array, Medium
 * 5/2
    - [79]Word Search, Medium
    - [212]Word Search II, Hard
