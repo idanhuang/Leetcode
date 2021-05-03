@@ -1,3 +1,5 @@
+* 5/3
+   - [1480]Running Sum of 1d Array, Easy
 * 5/2
    - [79]Word Search, Medium
    - [212]Word Search II, Hard
