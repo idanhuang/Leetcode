@@ -5,6 +5,9 @@
    - [264]Ugly Number II, Medium
    - [1134]Armstrong Number, Easy
    - [1008]Construct Binary Search Tree from Preorder Traversal, Medium
+   - [557]Reverse Words in a String III, Easy
+   - [24]Swap Nodes in Pairs
+   - [212]Word Search II, Hard
 * 5/2
    - [79]Word Search, Medium
    - [212]Word Search II, Hard
