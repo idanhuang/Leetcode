@@ -1,3 +1,7 @@
+update by Ming
+* 5/4
+   - [1603]Design Parking System, Easy
+   - [1395] Count Number of Teams, Medium
 * 5/3
    - [1480]Running Sum of 1d Array, Easy
    - [215]Kth Largest Element in an Array, Medium
