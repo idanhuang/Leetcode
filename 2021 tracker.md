@@ -3,6 +3,8 @@
    - [215]Kth Largest Element in an Array, Medium
    - [263]Ugly Number, Easy
    - [264]Ugly Number II, Medium
+   - [1134]Armstrong Number, Easy
+   - [1008]Construct Binary Search Tree from Preorder Traversal, Medium
 * 5/2
    - [79]Word Search, Medium
    - [212]Word Search II, Hard
