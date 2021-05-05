@@ -6,6 +6,9 @@ update by Ming
    - [1268]Search Suggestions System, Medium
    - [1844]Replace All Digits with Characters, Easy
    - [1848]Minimum Distance to the Target Element, Easy
+   - [160]Intersection of Two Linked Lists, Easy
+   - [223]Rectangle Area, Medium
+   - [322]Coin Change, Medium
 * 5/3
    - [1480]Running Sum of 1d Array, Easy
    - [215]Kth Largest Element in an Array, Medium
