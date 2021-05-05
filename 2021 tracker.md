@@ -1,4 +1,6 @@
 update by Ming
+* 5/5
+   - [55]Jump Game, Medium
 * 5/4
    - [665]Non-decreasing Array, Medium
    - [1603]Design Parking System, Easy
