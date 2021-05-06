@@ -3,6 +3,7 @@ update by Ming
    - [55]Jump Game, Medium
    - [45]Jump Game II, Medium
    - [1306]Jump Game III, Medium
+   - [1345]Jump Game IV, Hard
 * 5/4
    - [665]Non-decreasing Array, Medium
    - [1603]Design Parking System, Easy
