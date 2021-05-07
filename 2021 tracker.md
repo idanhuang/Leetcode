@@ -2,6 +2,8 @@ update by Ming
 * 5/6
    - [239]Sliding Window Maximum, Hard
    - [1696]Jump Game VI, Medium
+   - [108]Convert Sorted Array to Binary Search Tree, Easy
+   - [109]Convert Sorted List to Binary Search Tree, Medium
 * 5/5
    - [55]Jump Game, Medium
    - [45]Jump Game II, Medium
