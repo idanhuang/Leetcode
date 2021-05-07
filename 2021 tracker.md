@@ -1,6 +1,7 @@
 update by Ming
 * 5/6
    - [239]Sliding Window Maximum, Hard
+   - [1696]Jump Game VI, Medium
 * 5/5
    - [55]Jump Game, Medium
    - [45]Jump Game II, Medium
