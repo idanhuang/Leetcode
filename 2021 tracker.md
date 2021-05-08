@@ -4,6 +4,7 @@ update by Ming
    - [583]Delete Operation for Two Strings, Medium
    - [1091]Shortest Path in Binary Matrix, Medium
    - [11]Container With Most Water, Medium
+   - [373]Find K Pairs with Smallest Sums, Medium
 * 5/6
    - [239]Sliding Window Maximum, Hard
    - [1696]Jump Game VI, Medium
