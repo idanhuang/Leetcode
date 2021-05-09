@@ -3,6 +3,7 @@ update by Ming
    - [42]Trapping Rain Water, Hard
    - [407]Trapping Rain Water II, Hard
    - [252]Meeting Rooms, Easy
+   - [253]Meeting Rooms II, Medium
 * 5/7
    - [1143]Longest Common Subsequence, Medium
    - [583]Delete Operation for Two Strings, Medium
