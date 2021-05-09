@@ -1,6 +1,6 @@
 update by Dan
 * 5/9
-- [1769]Minimum Number of Operations to Move All Balls to Each Box, Medium
+   - [1769]Minimum Number of Operations to Move All Balls to Each Box, Medium
 * 5/8
    - [42]Trapping Rain Water, Hard
    - [407]Trapping Rain Water II, Hard
