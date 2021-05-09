@@ -5,6 +5,7 @@ update by Dan
    - [252]Meeting Rooms, Easy
    - [253]Meeting Rooms II, Medium
    - [56]Merge Intervals, Medium
+   - [435]Non-overlapping Intervals, Medium
 * 5/7
    - [1143]Longest Common Subsequence, Medium
    - [583]Delete Operation for Two Strings, Medium
