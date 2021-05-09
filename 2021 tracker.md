@@ -7,7 +7,8 @@ update by Dan
    - [56]Merge Intervals, Medium
    - [435]Non-overlapping Intervals, Medium
    - [452]Minimum Number of Arrows to Burst Balloons, Medium
-   - [1854] Maximum Population Year, Easy
+   - [1854]Maximum Population Year, Easy
+   - [1852]Distinct Numbers in Each Subarray, Medium
 * 5/7
    - [1143]Longest Common Subsequence, Medium
    - [583]Delete Operation for Two Strings, Medium
