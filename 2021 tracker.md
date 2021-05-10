@@ -7,7 +7,8 @@ update by Dan
    - [1710]Maximum Units on a Truck, Easy
    - [1167]Minimum Cost to Connect Sticks, Medium
    - [142]Linked List Cycle II, Medium
-   - [328] Odd Even Linked List, Medium
+   - [328]Odd Even Linked List, Medium
+   - [725]Split Linked List in Parts, Medium
 * 5/8
    - [42]Trapping Rain Water, Hard
    - [407]Trapping Rain Water II, Hard
