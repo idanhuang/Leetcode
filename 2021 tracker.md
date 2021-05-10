@@ -4,6 +4,7 @@ update by Dan
    - [299]Bulls and Cows, Medium
    - [1845]Seat Reservation Manager, Medium
    - [379]Design Phone Directory, Medium
+   - [1710]Maximum Units on a Truck, Easy
 * 5/8
    - [42]Trapping Rain Water, Hard
    - [407]Trapping Rain Water II, Hard
