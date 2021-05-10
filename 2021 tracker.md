@@ -5,6 +5,7 @@ update by Dan
    - [1845]Seat Reservation Manager, Medium
    - [379]Design Phone Directory, Medium
    - [1710]Maximum Units on a Truck, Easy
+   - [1167]Minimum Cost to Connect Sticks, Medium
 * 5/8
    - [42]Trapping Rain Water, Hard
    - [407]Trapping Rain Water II, Hard
