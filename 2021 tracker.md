@@ -1,4 +1,6 @@
 update by Dan
+* 5/10
+   - [560]Subarray Sum Equals K, Medium
 * 5/9
    - [1769]Minimum Number of Operations to Move All Balls to Each Box, Medium
    - [299]Bulls and Cows, Medium
