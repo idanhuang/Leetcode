@@ -6,6 +6,7 @@ update by Dan
    - [523]Continuous Subarray Sum, Medium
    - [713]Subarray Product Less Than K, Medium
    - [325]Maximum Size Subarray Sum Equals k, Medium
+   - [204]Count Primes, Easy
 * 5/9
    - [1769]Minimum Number of Operations to Move All Balls to Each Box, Medium
    - [299]Bulls and Cows, Medium
