@@ -1,4 +1,6 @@
-update by Dan
+update by Jing
+* 5/11
+   - [1423]Maximum Points You Can Obtain from Cards, Medium
 * 5/10
    - [560]Subarray Sum Equals K, Medium
    - [724]Find Pivot Index, Easy
