@@ -1,6 +1,7 @@
 update by Jing
 * 5/12
    - [1276]Number of Burgers with No Waste of Ingredients, Medium
+   - [304] Range Sum Query 2D - Immutable, Medium
 * 5/11
    - [1423]Maximum Points You Can Obtain from Cards, Medium
 * 5/10
