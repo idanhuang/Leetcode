@@ -1,6 +1,7 @@
 update by Ming
 * 5/16
    - [752]Open the Lock, Medium
+   - [979]Distribute Coins in Binary Tree, Medium
 * 5/15
    - [285]Inorder Successor in BST, Medium
    - [510]Inorder Successor in BST II, Medium
