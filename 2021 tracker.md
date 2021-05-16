@@ -3,6 +3,7 @@ update by Ming
    - [285]Inorder Successor in BST, Medium
    - [510]Inorder Successor in BST II, Medium
    - [1197]Minimum Knight Moves, Medium
+   - [286]Walls and Gates, Medium
 * 5/14
    - [114]Flatten Binary Tree to Linked List, Medium
    - [144]Binary Tree Preorder Traversal, Easy
