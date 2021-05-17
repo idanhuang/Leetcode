@@ -2,6 +2,7 @@
    - [752]Open the Lock, Medium
    - [979]Distribute Coins in Binary Tree, Medium
    - [968]Binary Tree Cameras,Hard
+   - [169]Majority Element, Easy
 * 5/15
    - [285]Inorder Successor in BST, Medium
    - [510]Inorder Successor in BST II, Medium
