@@ -1,5 +1,6 @@
 * 5/18
    - [1217]Minimum Cost to Move Chips to The Same Position, Easy
+   - [1769]Minimum Number of Operations to Move All Balls to Each Box, Medium
 * 5/17
    - [1048]Longest String Chain, Medium
    - [451]Sort Characters By Frequency, Medium
