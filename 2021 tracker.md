@@ -2,6 +2,7 @@
    - [1048]Longest String Chain, Medium
    - [451]Sort Characters By Frequency, Medium
    - [1063]Number of Valid Subarrays, Hard
+   - [41]First Missing Positive, Hard
 * 5/16
    - [752]Open the Lock, Medium
    - [979]Distribute Coins in Binary Tree, Medium
