@@ -1,5 +1,6 @@
 * 5/19
    - [1578]Minimum Deletion Cost to Avoid Repeating Letters, Medium
+   - [462]Minimum Moves to Equal Array Elements II, Medium - O(N)
 * 5/18
    - [1217]Minimum Cost to Move Chips to The Same Position, Easy
    - [1769]Minimum Number of Operations to Move All Balls to Each Box, Medium
