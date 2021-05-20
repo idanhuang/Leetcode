@@ -14,4 +14,4 @@
 
 #### Graph
 - 2-d Matrix
-  - 547. Number of Provinces
+  - 547 Number of Provinces
