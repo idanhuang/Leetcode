@@ -7,3 +7,6 @@
 - IComparable<T>: For a class implemented IComparable, the instances of the class are comparable.
 - IComparer<T>: For a class implemented IComparer<T>, the instance of the class can be used to compare two instances of type T.
 - Problem LC 295. Find Median from Data Stream
+
+#### module operation
+- 1010 Pairs of Songs With Total Durations Divisible by 60
