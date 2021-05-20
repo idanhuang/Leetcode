@@ -13,5 +13,7 @@
 
 
 #### Graph
-- 2-d Matrix
+- Adjacency matrix (2D array)
   - 547 Number of Provinces
+- Edge List
+  - 323 Number of Connected Components in an Undirected Graph
