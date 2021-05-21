@@ -4,6 +4,7 @@
    - [127]Word Ladder, Hard
    - [957]Prison Cells After N Days, Medium
    - [1078]Occurrences After Bigram, Easy
+   - [293]Flip Game, Easy
 * 5/20
    - [1010]Pairs of Songs With Total Durations Divisible by 60, Medium
    - [1859]Sorting the Sentence, Easy
