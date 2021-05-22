@@ -6,6 +6,7 @@
    - [1078]Occurrences After Bigram, Easy
    - [293]Flip Game, Easy
    - [205]Isomorphic Strings, Easy
+   - [290]Word Pattern, Easy
 * 5/20
    - [1010]Pairs of Songs With Total Durations Divisible by 60, Medium
    - [1859]Sorting the Sentence, Easy
