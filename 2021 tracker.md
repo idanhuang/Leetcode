@@ -8,6 +8,7 @@
    - [205]Isomorphic Strings, Easy
    - [290]Word Pattern, Easy
    - [890]Find and Replace Pattern, Medium
+   - [535]Encode and Decode TinyURL, Medium
 * 5/20
    - [1010]Pairs of Songs With Total Durations Divisible by 60, Medium
    - [1859]Sorting the Sentence, Easy
