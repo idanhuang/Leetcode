@@ -1,3 +1,5 @@
+* 5/22
+   - [348]Design Tic-Tac-Toee, Medium
 * 5/21
    - [572]Subtree of Another Tree, Easy
    - [1710]Maximum Units on a Truck, Easy
