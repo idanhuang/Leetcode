@@ -2,6 +2,7 @@
    - [348]Design Tic-Tac-Toee, Medium
    - [138]Copy List with Random Pointer, Medium
    - [133]Clone Graph, Medium
+   - [1490]Clone N-ary Tree, Medium
 * 5/21
    - [572]Subtree of Another Tree, Easy
    - [1710]Maximum Units on a Truck, Easy
