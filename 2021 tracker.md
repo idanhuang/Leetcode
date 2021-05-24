@@ -1,6 +1,7 @@
 * 5/23
    - [380]Insert Delete GetRandom O(1), Medium
    - [1648]Sell Diminishing-Valued Colored Balls, Medium
+   - [221]Maximal Square, Medium
 * 5/22
    - [348]Design Tic-Tac-Toee, Medium
    - [138]Copy List with Random Pointer, Medium
