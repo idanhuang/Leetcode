@@ -1,3 +1,5 @@
+* 5/24
+   - [709]To Lower Case, Easy
 * 5/23
    - [380]Insert Delete GetRandom O(1), Medium
    - [1648]Sell Diminishing-Valued Colored Balls, Medium
