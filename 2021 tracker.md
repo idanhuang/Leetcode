@@ -3,6 +3,7 @@
    - [1328]Break a Palindrome, Medium
    - [1120]Maximum Average Subtree, Medium
    - [1365]How Many Numbers Are Smaller Than the Current Number, Easy
+   - [155]Min Stack, Easy
 * 5/23
    - [380]Insert Delete GetRandom O(1), Medium
    - [1648]Sell Diminishing-Valued Colored Balls, Medium
