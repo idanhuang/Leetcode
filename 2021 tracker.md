@@ -1,3 +1,5 @@
+* 5/25
+   - [716]Max Stack, Easy
 * 5/24
    - [709]To Lower Case, Easy
    - [1328]Break a Palindrome, Medium
