@@ -1,7 +1,7 @@
 * 5/25
    - [716]Max Stack, Easy
    - [1180]Count Substrings with Only One Distinct Letter, Easy
-   - [150. ]Evaluate Reverse Polish Notation, Medium
+   - [150]Evaluate Reverse Polish Notation, Medium
 * 5/24
    - [709]To Lower Case, Easy
    - [1328]Break a Palindrome, Medium
