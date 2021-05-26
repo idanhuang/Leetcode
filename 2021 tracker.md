@@ -1,5 +1,6 @@
 * 5/25
    - [716]Max Stack, Easy
+   - [1180]Count Substrings with Only One Distinct Letter, Easy
 * 5/24
    - [709]To Lower Case, Easy
    - [1328]Break a Palindrome, Medium
