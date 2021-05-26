@@ -3,6 +3,7 @@
    - [1180]Count Substrings with Only One Distinct Letter, Easy
    - [150]Evaluate Reverse Polish Notation, Medium
    - [1602]Find Nearest Right Node in Binary Tree, Medium
+   - [1161]Maximum Level Sum of a Binary Tree, Medium
 * 5/24
    - [709]To Lower Case, Easy
    - [1328]Break a Palindrome, Medium
