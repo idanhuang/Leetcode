@@ -1,6 +1,7 @@
 * 5/26
    - [236]Lowest Common Ancestor of a Binary Tree, Medium
    - [1740]Find Distance in a Binary Tree, Medium
+   - [865]Smallest Subtree with all the Deepest Nodes, Medium
 * 5/25
    - [716]Max Stack, Easy
    - [1180]Count Substrings with Only One Distinct Letter, Easy
