@@ -3,6 +3,7 @@
    - [1822]Sign of the Product of an Array, Easy
    - [1647]Minimum Deletions to Make Character Frequencies Unique, Medium
    - [416]Partition Equal Subset Sum, Medium
+   - [494]Target Sum, Medium
 * 5/26
    - [236]Lowest Common Ancestor of a Binary Tree, Medium
    - [1740]Find Distance in a Binary Tree, Medium
