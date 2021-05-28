@@ -3,6 +3,7 @@
    - [1021]Remove Outermost Parentheses, Easy
    - [1047]Remove All Adjacent Duplicates In String, Easy
    - [1441]Build an Array With Stack Operations, Easy
+   - [682]Baseball Game, Easy
 * 5/27
    - [1123]Lowest Common Ancestor of Deepest Leaves, Medium
    - [1822]Sign of the Product of an Array, Easy
