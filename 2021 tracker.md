@@ -1,3 +1,5 @@
+* 5/28
+   - [1695]Maximum Erasure Value, Medium
 * 5/27
    - [1123]Lowest Common Ancestor of Deepest Leaves, Medium
    - [1822]Sign of the Product of an Array, Easy
