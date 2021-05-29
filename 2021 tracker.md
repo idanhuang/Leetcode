@@ -6,6 +6,7 @@
    - [682]Baseball Game, Easy
    - [1381]Design a Stack With Increment Operation, Medium
    - [1167]Minimum Cost to Connect Sticks, Medium
+   - [303]Range Sum Query - Immutable, Easy
 * 5/27
    - [1123]Lowest Common Ancestor of Deepest Leaves, Medium
    - [1822]Sign of the Product of an Array, Easy
