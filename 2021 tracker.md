@@ -2,6 +2,7 @@
    - [207]Course Schedule, Medium
    - [210]Course Schedule II, Medium
    - [1136]Parallel Courses, Medium
+   - [630]Course Schedule III,Hard
 *  5/29
    - [1880]Check if Word Equals Summation of Two Words, Easy
    - [1876]Substrings of Size Three with Distinct Characters, Easy
