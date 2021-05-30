@@ -1,3 +1,5 @@
+* 5/29
+   - [1880]Check if Word Equals Summation of Two Words, Easy
 * 5/28
    - [1695]Maximum Erasure Value, Medium
    - [1021]Remove Outermost Parentheses, Easy
