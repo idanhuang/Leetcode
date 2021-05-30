@@ -3,6 +3,7 @@
    - [1876]Substrings of Size Three with Distinct Characters, Easy
    - [1874]Minimize Product Sum of Two Arrays, Medium
    - [1877]Minimize Maximum Pair Sum in Array, Medium
+   - [1869]Longer Contiguous Segments of Ones than Zeros, Easy
 * 5/28
    - [1695]Maximum Erasure Value, Medium
    - [1021]Remove Outermost Parentheses, Easy
