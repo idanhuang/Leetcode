@@ -1,6 +1,7 @@
 * 5/31
    - [496]Next Greater Element I, Easy
    - [739]Daily Temperatures, Medium
+   - [503]Next Greater Element II, Medium
 # April: Easy 42, Medium 107, Hard 15
 * 5/30
    - [207]Course Schedule, Medium
