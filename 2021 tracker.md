@@ -1,3 +1,5 @@
+* 5/31
+   - [496]Next Greater Element I, Easy
 # April: Easy 42, Medium 107, Hard 15
 * 5/30
    - [207]Course Schedule, Medium
