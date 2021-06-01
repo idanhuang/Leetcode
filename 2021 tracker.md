@@ -1,3 +1,5 @@
+* 6/1
+   - [695]Max Area of Island, Medium
 # May: Easy 43, Medium 111, Hard 15
 * 5/31
    - [496]Next Greater Element I, Easy
