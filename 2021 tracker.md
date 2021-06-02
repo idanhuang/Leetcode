@@ -1,4 +1,5 @@
 * 6/1
+   - [1338]Reduce Array Size to The Half, Medium
    - [695]Max Area of Island, Medium
    - [256]Paint House, Medium
    - [265]Paint House II, Hard
