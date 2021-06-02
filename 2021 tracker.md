@@ -3,6 +3,7 @@
    - [256]Paint House, Medium
    - [265]Paint House II, hard
    - [276]Paint Fence, Medium
+   - [198]House Robber, Medium
    
 # May: Easy 43, Medium 111, Hard 15
 * 5/31
