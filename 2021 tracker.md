@@ -2,7 +2,8 @@
    - [695]Max Area of Island, Medium
    - [256]Paint House, Medium
    - [265]Paint House II, hard
-
+   - [276]Paint Fence, Medium
+   
 # May: Easy 43, Medium 111, Hard 15
 * 5/31
    - [496]Next Greater Element I, Easy
