@@ -1,7 +1,7 @@
 * 6/1
    - [695]Max Area of Island, Medium
    - [256]Paint House, Medium
-   - [265]Paint House II, hard
+   - [265]Paint House II, Hard
    - [276]Paint Fence, Medium
    - [198]House Robber, Medium
    - [213]House Robber II, Medium
