@@ -19,4 +19,4 @@
   - 323 Number of Connected Components in an Undirected Graph
 
 #### Monotonic Queue
-- 239. Sliding Window Maximum
+- 239 Sliding Window Maximum
