@@ -4,6 +4,7 @@
    - [159]Longest Substring with At Most Two Distinct Characters, Medium
    - [340]Longest Substring with At Most K Distinct Characters, Medium
    - [992]Subarrays with K Different Integers, Hard
+   - [1248]Count Number of Nice Subarrays, Medium
 * 6/1
    - [1338]Reduce Array Size to The Half, Medium
    - [695]Max Area of Island, Medium
