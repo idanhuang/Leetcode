@@ -1,5 +1,6 @@
 * 6/2
    - [97]Interleaving String, Medium
+   - [239]Sliding Window Maximum, Hard
 * 6/1
    - [1338]Reduce Array Size to The Half, Medium
    - [695]Max Area of Island, Medium
