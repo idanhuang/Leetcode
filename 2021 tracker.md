@@ -2,6 +2,7 @@
    - [97]Interleaving String, Medium
    - [239]Sliding Window Maximum, Hard
    - [159]Longest Substring with At Most Two Distinct Characters, Medium
+   - [340]Longest Substring with At Most K Distinct Characters, Medium
 * 6/1
    - [1338]Reduce Array Size to The Half, Medium
    - [695]Max Area of Island, Medium
