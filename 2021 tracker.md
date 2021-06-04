@@ -1,5 +1,7 @@
+* 6/4
+   - [752]Open the Lock, Medium
 * 6/3
-   - [1429]IFirst Unique Number, Medium
+   - [1429]First Unique Number, Medium
    - [1465]Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts, Medium
 * 6/2
    - [97]Interleaving String, Medium
