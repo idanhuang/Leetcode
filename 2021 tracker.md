@@ -1,3 +1,5 @@
+* 6/3
+   - [1429]IFirst Unique Number, Medium
 * 6/2
    - [97]Interleaving String, Medium
    - [239]Sliding Window Maximum, Hard
