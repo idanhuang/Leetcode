@@ -1,3 +1,5 @@
+* 6/5
+   - [1150]Check If a Number Is Majority Element in a Sorted Array, Easy
 * 6/4
    - [752]Open the Lock, Medium
    - [1885]Count Pairs in Two Arrays, Medium
