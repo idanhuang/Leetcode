@@ -3,7 +3,7 @@
    - [1885]Count Pairs in Two Arrays, Medium
    - [1628]Design an Expression Tree With Evaluate Function, Medium
    - [1277]Count Square Submatrices with All Ones, Medium
-   - [169]Majority Element,Easy
+   - [169]Majority Element, Easy
 * 6/3
    - [1429]First Unique Number, Medium
    - [1465]Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts, Medium
