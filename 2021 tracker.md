@@ -2,6 +2,7 @@
    - [1150]Check If a Number Is Majority Element in a Sorted Array, Easy
    - [278]First Bad Version, Easy
    - [34]Find First and Last Position of Element in Sorted Array, Medium
+   - [540]Single Element in a Sorted Array, Medium
 * 6/4
    - [752]Open the Lock, Medium
    - [1885]Count Pairs in Two Arrays, Medium
