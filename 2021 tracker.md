@@ -8,6 +8,7 @@
    - [674]Longest Continuous Increasing Subsequence, Easy
    - [279]Perfect Squares, Medium
    - [1730]Shortest Path to Get Food, Medium
+   - [542]01 Matrix, Medium
 * 6/4
    - [752]Open the Lock, Medium
    - [1885]Count Pairs in Two Arrays, Medium
