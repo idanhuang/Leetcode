@@ -2,6 +2,7 @@
    - [1]Two Sum, Easy
    - [1041]Robot Bounded In Circle, Medium
    - [200]Number of Islands, Medium
+   - [146]LRU Cache, Medium
 * 6/5
    - [1150]Check If a Number Is Majority Element in a Sorted Array, Easy
    - [278]First Bad Version, Easy
