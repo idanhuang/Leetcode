@@ -9,6 +9,7 @@
    - [279]Perfect Squares, Medium
    - [1730]Shortest Path to Get Food, Medium
    - [542]01 Matrix, Medium
+   - [1293]Shortest Path in a Grid with Obstacles Elimination, Hard
 * 6/4
    - [752]Open the Lock, Medium
    - [1885]Count Pairs in Two Arrays, Medium
