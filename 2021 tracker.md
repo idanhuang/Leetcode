@@ -1,3 +1,5 @@
+* 6/6
+   - [1]Two Sum, Easy
 * 6/5
    - [1150]Check If a Number Is Majority Element in a Sorted Array, Easy
    - [278]First Bad Version, Easy
