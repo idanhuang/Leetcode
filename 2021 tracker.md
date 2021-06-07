@@ -7,6 +7,7 @@
    - [380]Insert Delete GetRandom O(1), Medium
    - [128]Longest Consecutive Sequence, Medium
    - [298]Binary Tree Longest Consecutive Sequence, Medium
+   - [139]Word Break, Medium
 * 6/5
    - [1150]Check If a Number Is Majority Element in a Sorted Array, Easy
    - [278]First Bad Version, Easy
