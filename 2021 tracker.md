@@ -4,6 +4,7 @@
    - [200]Number of Islands, Medium
    - [146]LRU Cache, Medium
    - [253]Meeting Rooms II, Medium
+   - [380]Insert Delete GetRandom O(1), Medium
 * 6/5
    - [1150]Check If a Number Is Majority Element in a Sorted Array, Easy
    - [278]First Bad Version, Easy
