@@ -1,6 +1,7 @@
 * 6/7
    - [746]Min Cost Climbing Stairs, Easy
    - [1120]Maximum Average Subtree, Medium
+   - [490]The Maze, Medium
 * 6/6
    - [1]Two Sum, Easy
    - [1041]Robot Bounded In Circle, Medium
