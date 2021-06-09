@@ -1,5 +1,5 @@
 * 6/9
-   -[55]Jump Game, Medium
+   - [55]Jump Game, Medium
 * 6/8
    - [505]The Maze II, Medium
    - [105]Construct Binary Tree from Preorder and Inorder Traversal, Medium
