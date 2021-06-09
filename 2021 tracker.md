@@ -1,5 +1,6 @@
 * 6/8
    - [505]The Maze II, Medium
+   - [105]Construct Binary Tree from Preorder and Inorder Traversal, Medium
 * 6/7
    - [746]Min Cost Climbing Stairs, Easy
    - [1120]Maximum Average Subtree, Medium
