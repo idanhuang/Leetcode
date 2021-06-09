@@ -6,6 +6,7 @@
    - [1261]Find Elements in a Contaminated Binary Tree, Medium
    - [1328]Break a Palindrome, Medium
    - [735]Asteroid Collision, Medium
+   - [605]Can Place Flowers, Easy
 * 6/7
    - [746]Min Cost Climbing Stairs, Easy
    - [1120]Maximum Average Subtree, Medium
