@@ -1,6 +1,7 @@
 * 6/9
    - [1696]Jump Game VI, Medium
-   - [496]Next Greater Element I, Medium
+   - [901]Online Stock Span, Medium
+   - [496]Next Greater Element I, Easy
 * 6/9
    - [55]Jump Game, Medium
    - [45]Jump Game II, Medium
