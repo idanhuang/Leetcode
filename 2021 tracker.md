@@ -1,4 +1,6 @@
 * 6/9
+   - [1696]Jump Game VI, Medium
+* 6/9
    - [55]Jump Game, Medium
    - [45]Jump Game II, Medium
    - [1306]Jump Game III, Medium
