@@ -2,6 +2,7 @@
    - [55]Jump Game, Medium
    - [45]Jump Game II, Medium
    - [1306]Jump Game III, Medium
+   - [239]Sliding Window Maximum,Hard
 * 6/8
    - [505]The Maze II, Medium
    - [105]Construct Binary Tree from Preorder and Inorder Traversal, Medium
