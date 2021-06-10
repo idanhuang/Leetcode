@@ -3,11 +3,12 @@
    - [901]Online Stock Span, Medium
    - [496]Next Greater Element I, Easy
    - [503]Next Greater Element II, Medium
+   - [980]Unique Paths III, Hard
 * 6/9
    - [55]Jump Game, Medium
    - [45]Jump Game II, Medium
    - [1306]Jump Game III, Medium
-   - [239]Sliding Window Maximum,Hard
+   - [239]Sliding Window Maximum, Hard
 * 6/8
    - [505]The Maze II, Medium
    - [105]Construct Binary Tree from Preorder and Inorder Traversal, Medium
