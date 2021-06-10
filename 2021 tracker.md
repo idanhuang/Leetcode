@@ -1,5 +1,6 @@
 * 6/9
    - [1696]Jump Game VI, Medium
+   - [496]Next Greater Element I, Medium
 * 6/9
    - [55]Jump Game, Medium
    - [45]Jump Game II, Medium
