@@ -4,6 +4,7 @@
    - [496]Next Greater Element I, Easy
    - [503]Next Greater Element II, Medium
    - [980]Unique Paths III, Hard
+   - [444]Sequence Reconstruction, Medium
 * 6/9
    - [55]Jump Game, Medium
    - [45]Jump Game II, Medium
