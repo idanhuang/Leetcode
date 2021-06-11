@@ -4,6 +4,7 @@
    - [59]Spiral Matrix II, Medium
    - [885]Spiral Matrix III, Medium
    - [1762]Buildings With an Ocean View, Medium
+   - [1551]Minimum Operations to Make Array Equal, Medium
 * 6/10
    - [1696]Jump Game VI, Medium
    - [901]Online Stock Span, Medium
