@@ -5,6 +5,7 @@
    - [503]Next Greater Element II, Medium
    - [980]Unique Paths III, Hard
    - [444]Sequence Reconstruction, Medium
+   - [79]Word Search, Medium
 * 6/9
    - [55]Jump Game, Medium
    - [45]Jump Game II, Medium
