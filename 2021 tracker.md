@@ -1,5 +1,6 @@
 * 6/11
    - [1506]Find Root of N-Ary Tree, Medium
+   - [54]Spiral Matrix, Medium
 * 6/10
    - [1696]Jump Game VI, Medium
    - [901]Online Stock Span, Medium
