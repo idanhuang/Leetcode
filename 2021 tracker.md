@@ -1,6 +1,7 @@
 * 6/13
    - [1260]Shift 2D Grid, Easy
    - [941]Valid Mountain Array, Easy
+   - [283]Move Zeroes, Easy
 * 6/12
    - [1570]Dot Product of Two Sparse Vectors, Medium
    - [189]Rotate Array, Medium
