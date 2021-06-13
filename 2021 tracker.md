@@ -1,5 +1,6 @@
 * 6/12
    - [1570]Dot Product of Two Sparse Vectors, Medium
+   - [189]Rotate Array, Medium
 * 6/11
    - [1506]Find Root of N-Ary Tree, Medium
    - [54]Spiral Matrix, Medium
