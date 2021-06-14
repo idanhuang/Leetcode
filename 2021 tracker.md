@@ -11,6 +11,7 @@
    - [31]Next Permutation, Medium
    - [442]Find All Duplicates in an Array, Medium
    - [48]Rotate Image, Medium
+   - [75]Sort Colors, Medium
 * 6/12
    - [1570]Dot Product of Two Sparse Vectors, Medium
    - [189]Rotate Array, Medium
