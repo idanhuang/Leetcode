@@ -8,6 +8,7 @@
    - [80]Remove Duplicates from Sorted Array II, Medium
    - [56]Merge Intervals, Medium
    - [11]Container With Most Water, Medium
+   - [31]Next Permutation, Medium
 * 6/12
    - [1570]Dot Product of Two Sparse Vectors, Medium
    - [189]Rotate Array, Medium
