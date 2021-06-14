@@ -5,6 +5,7 @@
    - [27]Remove Element, Easy
    - [167]Two Sum II - Input array is sorted, Easy
    - [26]Remove Duplicates from Sorted Array, Easy
+   - [80]Remove Duplicates from Sorted Array II, Medium
 * 6/12
    - [1570]Dot Product of Two Sparse Vectors, Medium
    - [189]Rotate Array, Medium
