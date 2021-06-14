@@ -1,3 +1,5 @@
+* 6/14
+   - [1710]Maximum Units on a Truck, Easy
 * 6/13
    - [1260]Shift 2D Grid, Easy
    - [941]Valid Mountain Array, Easy
