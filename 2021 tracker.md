@@ -4,6 +4,7 @@
    - [57]Insert Interval, Medium
    - [551]Student Attendance Record I, Easy
    - [344]Reverse String, Easy
+   - [14]Longest Common Prefix, Easy
 * 6/13
    - [1260]Shift 2D Grid, Easy
    - [941]Valid Mountain Array, Easy
