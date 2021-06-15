@@ -1,6 +1,7 @@
 * 6/14
    - [1710]Maximum Units on a Truck, Easy
    - [56]Merge Intervals, Medium
+   - [57]Insert Interval, Medium
 * 6/13
    - [1260]Shift 2D Grid, Easy
    - [941]Valid Mountain Array, Easy
