@@ -1,6 +1,8 @@
 
 * 6/14
    - [151]Reverse Words in a String, Medium
+   - [698]Partition to K Equal Sum Subsets, Medium
+   - [473]Matchsticks to Square, Medium
 * 6/14
    - [1710]Maximum Units on a Truck, Easy
    - [56]Merge Intervals, Medium
