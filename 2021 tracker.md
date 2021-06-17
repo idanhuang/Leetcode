@@ -2,6 +2,7 @@
    - [254]Factor Combinations, Medium
    - [46]Permutations, Medium
    - [47]Permutations II, Medium
+   - [17]Letter Combinations of a Phone Number, Medium
 * 6/16
    - [39]Combination Sum, Medium
    - [40]Combination Sum II, Medium
