@@ -1,5 +1,6 @@
 * 6/17
    - [254]Factor Combinations, Medium
+   - [46]Permutations, Medium
 * 6/16
    - [39]Combination Sum, Medium
    - [40]Combination Sum II, Medium
