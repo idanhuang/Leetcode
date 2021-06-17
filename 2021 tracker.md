@@ -1,5 +1,6 @@
 * 6/16
    - [39]Combination Sum, Medium
+   - [40]Combination Sum II, Medium
 * 6/15
    - [151]Reverse Words in a String, Medium
    - [698]Partition to K Equal Sum Subsets, Medium
