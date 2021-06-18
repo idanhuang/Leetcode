@@ -1,3 +1,6 @@
+* 6/18
+   - [904]Fruit Into Baskets, Medium
+   - [523]Continuous Subarray Sum, Medium
 * 6/17
    - [254]Factor Combinations, Medium
    - [46]Permutations, Medium
