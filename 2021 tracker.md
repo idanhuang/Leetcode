@@ -1,6 +1,7 @@
 * 6/18
    - [904]Fruit Into Baskets, Medium
    - [523]Continuous Subarray Sum, Medium
+   - [560]Subarray Sum Equals K, Medium
 * 6/17
    - [254]Factor Combinations, Medium
    - [46]Permutations, Medium
