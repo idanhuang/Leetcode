@@ -1,4 +1,6 @@
 * 6/18
+   - [974]Subarray Sums Divisible by K, Medium
+* 6/18
    - [904]Fruit Into Baskets, Medium
    - [523]Continuous Subarray Sum, Medium
    - [560]Subarray Sum Equals K, Medium
