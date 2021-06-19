@@ -4,6 +4,7 @@
    - [560]Subarray Sum Equals K, Medium
    - [325]Maximum Size Subarray Sum Equals k, Medium
    - [304]Range Sum Query 2D - Immutable, Medium
+   - [1314]Matrix Block Sum, Medium
 * 6/17
    - [254]Factor Combinations, Medium
    - [46]Permutations, Medium
