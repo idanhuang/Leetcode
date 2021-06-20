@@ -1,6 +1,6 @@
 * 6/19
    - [974]Subarray Sums Divisible by K, Medium
-   - [1590] Make Sum Divisible by , MediumP
+   - [1590] Make Sum Divisible by P, Medium
 * 6/18
    - [904]Fruit Into Baskets, Medium
    - [523]Continuous Subarray Sum, Medium
