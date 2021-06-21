@@ -1,5 +1,6 @@
 * 6/21
    - [118]Pascal's Triangle, Easy
+   - [119]Pascal's Triangle II, Easy
 * 6/20
    - [1074]Number of Submatrices That Sum to Target, Hard
    - [363]Max Sum of Rectangle No Larger Than K, Hard
