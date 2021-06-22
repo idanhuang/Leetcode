@@ -1,3 +1,5 @@
+* 6/22
+   - [392]Is Subsequence, Easy
 * 6/21
    - [118]Pascal's Triangle, Easy
    - [119]Pascal's Triangle II, Easy
