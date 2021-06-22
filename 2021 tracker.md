@@ -2,6 +2,7 @@
    - [118]Pascal's Triangle, Easy
    - [119]Pascal's Triangle II, Easy
    - [1903]Largest Odd Number in String, Easy
+   - [346]Moving Average from Data Stream, Easy
 * 6/20
    - [1074]Number of Submatrices That Sum to Target, Hard
    - [363]Max Sum of Rectangle No Larger Than K, Hard
