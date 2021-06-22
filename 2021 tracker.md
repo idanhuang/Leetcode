@@ -7,6 +7,7 @@
    - [622]Design Circular Queue, Medium
    - [641]Design Circular Deque, Medium
    - [582]Kill Process, Medium
+   - [199]Binary Tree Right Side View, Medium
 * 6/20
    - [1074]Number of Submatrices That Sum to Target, Hard
    - [363]Max Sum of Rectangle No Larger Than K, Hard
