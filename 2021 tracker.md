@@ -1,5 +1,6 @@
 * 6/22
    - [392]Is Subsequence, Easy
+   - [792]Number of Matching Subsequences, Medium
 * 6/21
    - [118]Pascal's Triangle, Easy
    - [119]Pascal's Triangle II, Easy
