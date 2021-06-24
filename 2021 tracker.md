@@ -1,5 +1,6 @@
 * 6/24
    - [21]Merge Two Sorted Lists, Easy
+   - [237]Delete Node in a Linked List, Easy
 * 6/23
    - [206]Reverse Linked List, Easy
    - [92]Reverse Linked List II, Medium
