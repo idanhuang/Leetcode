@@ -1,3 +1,5 @@
+* 6/25
+   - [141]Linked List Cycle, Easy
 * 6/24
    - [21]Merge Two Sorted Lists, Easy
    - [237]Delete Node in a Linked List, Easy
