@@ -2,6 +2,7 @@
    - [708]Insert into a Sorted Circular Linked List, Medium
    - [725]Split Linked List in Parts, Medium
    - [203]Remove Linked List Elements, Easy
+   - [86]Partition List, Medium
 * 6/25
    - [141]Linked List Cycle, Easy
    - [142]Linked List Cycle II, Medium
