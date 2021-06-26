@@ -2,6 +2,7 @@
    - [141]Linked List Cycle, Easy
    - [142]Linked List Cycle II, Medium
    - [19]Remove Nth Node From End of List, Medium
+   - [147]Insertion Sort List, Medium
 * 6/24
    - [21]Merge Two Sorted Lists, Easy
    - [237]Delete Node in a Linked List, Easy
