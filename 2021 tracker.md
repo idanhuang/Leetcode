@@ -1,3 +1,5 @@
+* 6/26
+   - [708]Insert into a Sorted Circular Linked List, Medium
 * 6/25
    - [141]Linked List Cycle, Easy
    - [142]Linked List Cycle II, Medium
