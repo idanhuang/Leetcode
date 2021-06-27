@@ -1,4 +1,4 @@
-* 6/26
+* 6/27
    - [143]Reorder List, Medium
 * 6/26
    - [708]Insert into a Sorted Circular Linked List, Medium
