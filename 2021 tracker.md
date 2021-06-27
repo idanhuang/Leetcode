@@ -7,6 +7,7 @@
    - [876]Middle of the Linked List, Easy
    - [23]Merge k Sorted Lists, Hard
    - [148]Sort List, Medium
+   - [160]Intersection of Two Linked Lists, Easy
 * 6/25
    - [141]Linked List Cycle, Easy
    - [142]Linked List Cycle II, Medium
