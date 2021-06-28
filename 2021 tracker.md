@@ -1,6 +1,7 @@
 * 6/27
    - [143]Reorder List, Medium
    - [138]Copy List with Random Pointer, Medium
+   - [24]Swap Nodes in Pairs, Medium
 * 6/26
    - [708]Insert into a Sorted Circular Linked List, Medium
    - [725]Split Linked List in Parts, Medium
