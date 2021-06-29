@@ -1,5 +1,6 @@
 * 6/28
    - [1047]Remove All Adjacent Duplicates In String, Easy
+   - [20]Valid Parentheses, Easy
 * 6/27
    - [143]Reorder List, Medium
    - [138]Copy List with Random Pointer, Medium
