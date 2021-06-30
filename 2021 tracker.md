@@ -1,6 +1,7 @@
 * 6/29
    - [1134]Armstrong Number, Easy
    - [485]Max Consecutive Ones, Easy
+   - [487]Max Consecutive Ones II, Medium
    - [1004]Max Consecutive Ones III, Medium
 * 6/28
    - [1047]Remove All Adjacent Duplicates In String, Easy
