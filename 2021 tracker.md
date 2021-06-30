@@ -1,3 +1,5 @@
+* 6/29
+   - [1134]Armstrong Number, Easy
 * 6/28
    - [1047]Remove All Adjacent Duplicates In String, Easy
    - [20]Valid Parentheses, Easy
