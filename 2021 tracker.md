@@ -1,5 +1,6 @@
 * 7/1
    - [71]Simplify Path, Medium
+   - [735]Asteroid Collision, Medium
 
 # June: Easy 37, Medium 108, Hard 9
 * 6/30
