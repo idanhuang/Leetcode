@@ -1,3 +1,5 @@
+* 7/2
+   - [224]Basic Calculator, Hard
 * 7/1
    - [227]Basic Calculator II, Medium
    - [71]Simplify Path, Medium
