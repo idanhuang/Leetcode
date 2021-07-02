@@ -1,6 +1,7 @@
 * 7/2
    - [224]Basic Calculator, Hard
    - [151]Reverse Words in a String, Medium
+   - [186]Reverse Words in a String II, Medium
 * 7/1
    - [227]Basic Calculator II, Medium
    - [71]Simplify Path, Medium
