@@ -1,6 +1,7 @@
 * 7/3
    - [141]Linked List Cycle, Easy
    - [202]Happy Number, Easy
+   - [287] Find the Duplicate Number, Medium
 * 7/2
    - [224]Basic Calculator, Hard
    - [151]Reverse Words in a String, Medium
