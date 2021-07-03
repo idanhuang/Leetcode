@@ -4,7 +4,7 @@
    - [186]Reverse Words in a String II, Medium
    - [14]Longest Common Prefix, Easy
    - [17]Letter Combinations of a Phone Number, Medium
-   - [82]Remove Duplicates from Sorted List II
+   - [82]Remove Duplicates from Sorted List II, Medium
    - [124]Binary Tree Maximum Path Sum, Hard
    - [133]Clone Graph, Medium
    - [169]Majority Element, Easy
