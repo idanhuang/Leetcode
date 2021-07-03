@@ -7,6 +7,7 @@
    - [82]Remove Duplicates from Sorted List II, Medium
    - [124]Binary Tree Maximum Path Sum, Hard
    - [133]Clone Graph, Medium
+   - [169]Majority Element, Easy
 * 7/1
    - [227]Basic Calculator II, Medium
    - [71]Simplify Path, Medium
