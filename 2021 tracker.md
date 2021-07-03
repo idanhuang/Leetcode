@@ -4,6 +4,7 @@
    - [287]Find the Duplicate Number, Medium
    - [261]Graph Valid Tree, Medium
    - [323]Number of Connected Components in an Undirected Graph, Medium
+   - [299]Bulls and Cows, Medium
 * 7/2
    - [224]Basic Calculator, Hard
    - [151]Reverse Words in a String, Medium
