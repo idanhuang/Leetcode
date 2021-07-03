@@ -4,6 +4,7 @@
    - [186]Reverse Words in a String II, Medium
    - [14]Longest Common Prefix, Easy
    - [17]Letter Combinations of a Phone Number, Medium
+   - [82]Remove Duplicates from Sorted List II, Medium
 * 7/1
    - [227]Basic Calculator II, Medium
    - [71]Simplify Path, Medium
