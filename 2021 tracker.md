@@ -5,6 +5,7 @@
    - [261]Graph Valid Tree, Medium
    - [323]Number of Connected Components in an Undirected Graph, Medium
    - [299]Bulls and Cows, Medium
+   - [560]Subarray Sum Equals K, Medium
 * 7/2
    - [224]Basic Calculator, Hard
    - [151]Reverse Words in a String, Medium
