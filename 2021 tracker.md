@@ -2,6 +2,7 @@
    - [1909] Remove One Element to Make the Array Strictly Increasing, Easy
    - [11]Container With Most Water, Medium
    - [42]Trapping Rain Water, Hard
+   - [1665]Minimum Initial Energy to Finish Tasks, Hard
 * 7/3
    - [141]Linked List Cycle, Easy
    - [202]Happy Number, Easy
