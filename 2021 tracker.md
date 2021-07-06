@@ -5,6 +5,8 @@
    - [472]Concatenated Words, Hard
    - [490]The Maze, Medium
    - [505]The Maze II, Medium
+   - [263]Ugly Number, Easy
+   - [264]Ugly Number II, Medium
 * 7/4
    - [1909] Remove One Element to Make the Array Strictly Increasing, Easy
    - [11]Container With Most Water, Medium
