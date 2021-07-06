@@ -1,7 +1,7 @@
 * 7/5
    - [566]Reshape the Matrix, Easy
    - [139]Word Break, Medium
-   - [140]140. Word Break II, Hard
+   - [140]Word Break II, Hard
    - [472]Concatenated Words, Hard
 * 7/4
    - [1909] Remove One Element to Make the Array Strictly Increasing, Easy
