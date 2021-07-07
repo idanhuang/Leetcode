@@ -3,6 +3,7 @@
    - [252]Meeting Rooms, Easy
    - [253]Meeting Rooms II, Medium
    - [207]Course Schedule, Medium
+   - [210]Course Schedule II, Medium
 * 7/5
    - [566]Reshape the Matrix, Easy
    - [139]Word Break, Medium
