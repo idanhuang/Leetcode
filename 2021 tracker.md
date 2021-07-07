@@ -2,6 +2,7 @@
    - [1338]Reduce Array Size to The Half, Medium
    - [252]Meeting Rooms, Easy
    - [253]Meeting Rooms II, Medium
+   - [207]Course Schedule, Medium
 * 7/5
    - [566]Reshape the Matrix, Easy
    - [139]Word Break, Medium
