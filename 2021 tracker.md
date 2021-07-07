@@ -1,5 +1,6 @@
 * 7/5
    - [1338]Reduce Array Size to The Half, Medium
+   - [252]Meeting Rooms, Medium
 * 7/5
    - [566]Reshape the Matrix, Easy
    - [139]Word Break, Medium
