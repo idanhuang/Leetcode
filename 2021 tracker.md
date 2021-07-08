@@ -1,3 +1,5 @@
+* 7/7
+   - [373]Find K Pairs with Smallest Sums, Medium
 * 7/6
    - [1338]Reduce Array Size to The Half, Medium
    - [252]Meeting Rooms, Easy
