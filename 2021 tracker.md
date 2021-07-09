@@ -2,6 +2,7 @@
    - [378]Kth Smallest Element in a Sorted Matrix, Medium
    - [186]Reverse Words in a String II, Medium
    - [718]Maximum Length of Repeated Subarray, Medium
+   - [1143]Longest Common Subsequence, Medium
 * 7/7
    - [373]Find K Pairs with Smallest Sums, Medium
 * 7/6
