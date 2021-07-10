@@ -1,4 +1,5 @@
 * 7/10
+   - [674]Longest Continuous Increasing Subsequence, Easy
    - [300]Longest Increasing Subsequence, Medium
 * 7/9
    - [128]Longest Consecutive Sequence, Medium
