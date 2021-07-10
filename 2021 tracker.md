@@ -1,5 +1,6 @@
 * 7/10
    - [674]Longest Continuous Increasing Subsequence, Easy
+   - [392]Is Subsequence, Easy
    - [300]Longest Increasing Subsequence, Medium
    - [673]Number of Longest Increasing Subsequence, Medium
    - [76]Minimum Window Substring, Hard
