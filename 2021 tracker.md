@@ -1,3 +1,5 @@
+* 7/10
+   - [300]Longest Increasing Subsequence, Medium
 * 7/9
    - [128]Longest Consecutive Sequence, Medium
 * 7/8
