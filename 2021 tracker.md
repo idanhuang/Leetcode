@@ -5,6 +5,7 @@
    - [300]Longest Increasing Subsequence, Medium
    - [673]Number of Longest Increasing Subsequence, Medium
    - [792]Number of Matching Subsequences, Medium
+   - [950]Reveal Cards In Increasing Order, Medium
    - [76]Minimum Window Substring, Hard
 * 7/9
    - [128]Longest Consecutive Sequence, Medium
