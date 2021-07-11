@@ -1,6 +1,7 @@
 * 7/11
    - [1929]Concatenation of Array, Easy
    - [1913]Maximum Product Difference Between Two Pairs, Easy
+   - [1920]Build Array from Permutation, Easy
    - [454]4Sum II, Medium
 * 7/10
    - [674]Longest Continuous Increasing Subsequence, Easy
