@@ -7,6 +7,7 @@
    - [792]Number of Matching Subsequences, Medium
    - [950]Reveal Cards In Increasing Order, Medium
    - [15]3Sum, Medium
+   - [18]4Sum, Medium
    - [76]Minimum Window Substring, Hard
 * 7/9
    - [128]Longest Consecutive Sequence, Medium
