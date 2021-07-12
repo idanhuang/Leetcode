@@ -4,6 +4,7 @@
    - [1920]Build Array from Permutation, Easy
    - [454]4Sum II, Medium
    - [310]Minimum Height Trees, Medium
+   - [129]Sum Root to Leaf Numbers, Medium
    - [273]Integer to English Words, Hard
    - [124]Binary Tree Maximum Path Sum, Hard
 * 7/10
