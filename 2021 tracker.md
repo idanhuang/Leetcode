@@ -1,3 +1,5 @@
+* 7/12
+   - [295]Find Median from Data Stream, Hard
 * 7/11
    - [1929]Concatenation of Array, Easy
    - [1913]Maximum Product Difference Between Two Pairs, Easy
