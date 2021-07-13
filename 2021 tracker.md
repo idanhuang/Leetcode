@@ -1,4 +1,5 @@
 * 7/12
+   - [543]Diameter of Binary Tree, Easy
    - [295]Find Median from Data Stream, Hard
 * 7/11
    - [1929]Concatenation of Array, Easy
