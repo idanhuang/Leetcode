@@ -2,6 +2,7 @@
    - [611]Valid Triangle Number, Medium
    - [259]3Sum Smaller, Medium
    - [16]3Sum Closest, Medium
+   - [323]Number of Connected Components in an Undirected Graph, Medium
 * 7/14
    - [1462]Course Schedule IV, Medium
    - [1334]Find the City With the Smallest Number of Neighbors at a Threshold Distance, Medium
