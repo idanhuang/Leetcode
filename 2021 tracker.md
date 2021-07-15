@@ -1,5 +1,6 @@
 * 7/14
    - [1462]Course Schedule IV, Medium
+   - [1334]Find the City With the Smallest Number of Neighbors at a Threshold Distance, Medium
 * 7/13
    - [162]Find Peak Element, Medium
 * 7/12
