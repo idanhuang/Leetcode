@@ -6,6 +6,7 @@
    - [7]Reverse Integer, Medium
    - [763]Partition Labels, Medium
    - [957]Prison Cells After N Days, Medium
+   - [1198]Find Smallest Common Element in All Rows, Medium
 * 7/14
    - [1462]Course Schedule IV, Medium
    - [1334]Find the City With the Smallest Number of Neighbors at a Threshold Distance, Medium
