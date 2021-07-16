@@ -1,3 +1,5 @@
+* 7/16
+   - [18]4Sum, Medium
 * 7/15
    - [611]Valid Triangle Number, Medium
    - [259]3Sum Smaller, Medium
