@@ -1,4 +1,5 @@
 * 7/16
+   - [1474] Delete N Nodes After M Nodes of a Linked List, Easy
    - [18]4Sum, Medium
 * 7/15
    - [611]Valid Triangle Number, Medium
