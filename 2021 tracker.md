@@ -1,5 +1,6 @@
 * 7/16
-   - [1474] Delete N Nodes After M Nodes of a Linked List, Easy
+   - [1474]Delete N Nodes After M Nodes of a Linked List, Easy
+   - [1502]Can Make Arithmetic Progression From Sequence, Easy
    - [18]4Sum, Medium
    - [366]Find Leaves of Binary Tree, Medium
    - [814]Binary Tree Pruning, Medium
