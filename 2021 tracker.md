@@ -2,6 +2,7 @@
    - [1474] Delete N Nodes After M Nodes of a Linked List, Easy
    - [18]4Sum, Medium
    - [366]Find Leaves of Binary Tree, Medium
+   - [814]Binary Tree Pruning, Medium
 * 7/15
    - [611]Valid Triangle Number, Medium
    - [259]3Sum Smaller, Medium
