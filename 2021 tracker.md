@@ -1,5 +1,6 @@
 * 7/17
    - [167]Two Sum II - Input array is sorted, Easy
+   - [56]Merge Intervals, Medium
 * 7/16
    - [1474]Delete N Nodes After M Nodes of a Linked List, Easy
    - [1502]Can Make Arithmetic Progression From Sequence, Easy
