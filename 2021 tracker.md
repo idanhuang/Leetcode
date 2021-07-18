@@ -1,3 +1,5 @@
+* 7/18
+   - [1935]Maximum Number of Words You Can Type, Easy
 * 7/17
    - [953]Verifying an Alien Dictionary, Easy
    - [167]Two Sum II - Input array is sorted, Easy
